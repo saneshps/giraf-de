@@ -8,9 +8,9 @@
   <meta name="description"
     content="Giraf is a leading digital marketing,web & App design & development company in India also focused on Designing,Branding,Photography and Video Production services">
   <title> Top Website & App Design,Development,Branding Agency India| Service Details </title>
-<!-- canonical -->
-<link href="https://giraf.in/service-details.php" rel="canonical">
-<!--// canonical -->
+  <!-- canonical -->
+  <link href="https://girafcreatives.com/de/service-details.php" rel="canonical">
+  <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
@@ -65,7 +65,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <!-- <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'> -->
   <!-- blogs -->
-  <?php include("gtag_head.php");?>
+  <?php include("gtag_head.php"); ?>
 </head>
 
 <body>
@@ -75,7 +75,7 @@
 
 
 
-<?php include("header.php");?>
+  <?php include("header.php"); ?>
 
   <!-- =====================
           HEADER END
@@ -135,7 +135,7 @@
   <!-- ======================
           FOOTER AREA START
        ====================== -->
-<?php include("footer.php");?>
+  <?php include("footer.php"); ?>
 
   <!-- =====================
           LINES AREA START
@@ -276,7 +276,7 @@
   <!-- Clients -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
   <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
       $('.customer-logos').slick({
         slidesToShow: 6,
         slidesToScroll: 1,
@@ -285,8 +285,7 @@
         arrows: false,
         dots: false,
         pauseOnHover: false,
-        responsive: [
-          {
+        responsive: [{
             breakpoint: 1920,
             settings: {
               slidesToShow: 6
@@ -322,7 +321,8 @@
             settings: {
               slidesToShow: 2
             }
-          }]
+          }
+        ]
       });
     });
   </script>
@@ -334,7 +334,7 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
 
   <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
       $("#testimonial-slider").owlCarousel({
         items: 1,
         itemsDesktop: [1000, 1],

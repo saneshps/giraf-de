@@ -19,7 +19,7 @@ $result = $conn->query($sql);
   <meta name="description" content="Check out our Blogs and get information on trending topics of Digital Marketing,Website & App Development, UI & UX Design,Ecommerce industry">
   <title> Blogs|Top Digital Marketing Agency,India|Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/blogs.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/blogs.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

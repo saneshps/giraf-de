@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> The Future of Text Sharing: Twitter or Instagram Thread - Who Will Survive the Battle </title>
-<!-- canonical -->
-<link href="https://giraf.in/the-future-of-text-sharing-twiter-or-instagram-tread-who-will-survive-the-battle.php" rel="canonical">
-<!--// canonical -->
+  <!-- canonical -->
+  <link href="https://girafcreatives.com/de/the-future-of-text-sharing-twiter-or-instagram-tread-who-will-survive-the-battle.php" rel="canonical">
+  <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 

@@ -8,7 +8,7 @@
   <meta name="description" content="Giraf offers professional photography and videography services specializing in warehouse and product shoots. Capture high-quality visuals that showcase your products perfectly.">
   <title> Creative photography and videography production services| Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/photography-and-video-production.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/photography-and-video-production.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

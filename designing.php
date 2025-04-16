@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/designing.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/designing.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

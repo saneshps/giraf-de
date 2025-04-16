@@ -1,4 +1,3 @@
-
 <?php include('db_connect.php');
 $slug = filter_var($_GET['slug'], FILTER_SANITIZE_STRING);
 $sql = "SELECT blogs.*, websites.*, blogs.created_at as created_at
@@ -23,20 +22,20 @@ $results = $conn->query($sql1);
 
 ?>
 <!-- <?php
-if ($result->num_rows > 0) {
-$row = $result->fetch_assoc();
-?>
+      if ($result->num_rows > 0) {
+        $row = $result->fetch_assoc();
+      ?>
 
 
 <?php
-}
+      }
 ?> -->
 <!DOCTYPE html>
 
 <html lang="en">
 
 <head>
-  <base href="https://giraf.in/blog-details">
+  <base href="https://girafcreatives.com/de/blog-details">
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -148,7 +147,7 @@ $row = $result->fetch_assoc();
     <div class="container">
       <div class="row">
         <div class="col-xl-8 col-lg-9 col-md-12 blog-details-area">
-           <img src="https://bigleap.tech/cms/storage/app/public/<?= $row['default_image']; ?>" alt="<?= $row['image_alt']; ?>">
+          <img src="https://bigleap.tech/cms/storage/app/public/<?= $row['default_image']; ?>" alt="<?= $row['image_alt']; ?>">
 
 
 
@@ -164,64 +163,65 @@ $row = $result->fetch_assoc();
             <?php
             if ($results->num_rows > 0) {
               while ($latest_post = $results->fetch_assoc()) {
-              
-                ?>
+
+            ?>
 
                 <li>
-                 <img src="https://bigleap.tech/cms/storage/app/public/<?= $latest_post['default_image']; ?>" alt="<?= $latest_post['image_alt']; ?>">
-                <div class="latest-post-ul-content">
-                <span> <i class="fas fa-calendar-alt"></i> <a> <?php echo (new DateTime($latest_post['created_at']))->format('M d, Y'); ?> </a> </span>
-                <h5>
-                <a href="blog-details/<?php echo $latest_post['slug']; ?>">
-                <?php
-                $trimmedTitle = wordwrap($latest_post['blog_title'], 20, "\n", false);
-                $lines = explode("\n", $trimmedTitle);
-                echo $lines[0] . '<br>' . $lines[1] . '..';
-                ?>
-                </a>
-                </h5>
+                  <img src="https://bigleap.tech/cms/storage/app/public/<?= $latest_post['default_image']; ?>" alt="<?= $latest_post['image_alt']; ?>">
+                  <div class="latest-post-ul-content">
+                    <span> <i class="fas fa-calendar-alt"></i> <a> <?php echo (new DateTime($latest_post['created_at']))->format('M d, Y'); ?> </a> </span>
+                    <h5>
+                      <a href="blog-details/<?php echo $latest_post['slug']; ?>">
+                        <?php
+                        $trimmedTitle = wordwrap($latest_post['blog_title'], 20, "\n", false);
+                        $lines = explode("\n", $trimmedTitle);
+                        echo $lines[0] . '<br>' . $lines[1] . '..';
+                        ?>
+                      </a>
+                    </h5>
 
-                </div>
+                  </div>
 
                 </li>
-                <?php
-              }}
-              ?>
-              </ul>
-              </div>
+            <?php
+              }
+            }
+            ?>
+          </ul>
+        </div>
 
-              </div>
-              </div>
-              </section>
+      </div>
+    </div>
+  </section>
 
-              <!-- =====================
+  <!-- =====================
               BLOG AREA END
               ===================== -->
 
 
 
 
-              <!-- ======================
+  <!-- ======================
               FOOTER AREA START
               ====================== -->
-              <?php include("footer.php") ?>
+  <?php include("footer.php") ?>
 
-              <!-- =====================
+  <!-- =====================
               LINES AREA START
               ===================== -->
-              <div class="wgl-body-lines">
-              <span></span>
-              <span></span>
-              <span></span>
-              <span></span>
-              <span></span>
-              </div>
+  <div class="wgl-body-lines">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
 
-              <!-- =====================
+  <!-- =====================
               LINES AREA END
               ===================== -->
 
-              <!-- =====================
+  <!-- =====================
               FOOTER AREA END
               ===================== -->
 
@@ -231,213 +231,213 @@ $row = $result->fetch_assoc();
 
 
 
-              <!-- =====================
+  <!-- =====================
               JS AREA START
               ===================== -->
 
-              <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
-              <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-              <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-              <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
               integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
               crossorigin="anonymous"></script> -->
 
-              <!-- swiper -->
+  <!-- swiper -->
 
-              <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
-              <script src="./js/main.js"></script>
-              <!-- back to top -->
-              <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="./js/main.js"></script>
+  <!-- back to top -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-              <script src="./js/script.js"></script>
-              <!--// back to top -->
-
-
-
-              <!-- video -->
-              <script src="https://dayapuram.org/FrontendAsset/js/jquery.magnific-popup.min.js"></script>
-              <script src="https://dayapuram.org/FrontendAsset/js/aos.js"></script>
-              <script src="https://dayapuram.org/FrontendAsset/js/youtube.js"></script>
-              <!-- video -->
-
-              <!-- humberger menu -->
-              <script>
-              let navButton = document.querySelector(".nav-button");
-
-              navButton.addEventListener("click", e => {
-                e.preventDefault();
-
-                // toggle nav state
-                document.body.classList.toggle("nav-visible");
-              });
-              </script>
-              <!-- humberger menu -->
+  <script src="./js/script.js"></script>
+  <!--// back to top -->
 
 
-              <!-- animate aos -->
-              <script>
-              AOS.init();
-              </script>
 
-              <!--// animate aos -->
+  <!-- video -->
+  <script src="https://dayapuram.org/FrontendAsset/js/jquery.magnific-popup.min.js"></script>
+  <script src="https://dayapuram.org/FrontendAsset/js/aos.js"></script>
+  <script src="https://dayapuram.org/FrontendAsset/js/youtube.js"></script>
+  <!-- video -->
 
-              <!-- Team slider -->
-              <script>
-              var swiper = new Swiper(".teamSlider", {
-                slidesPerView: 1,
-                spaceBetween: 10,
-                pagination: {
-                  el: ".swiper-pagination",
-                  clickable: true,
-                },
-                autoplay: {
-                  delay: 2500,
-                  disableOnInteraction: false,
-                },
-                navigation: {
-                  nextEl: ".swiper-button-next",
-                  prevEl: ".swiper-button-prev",
-                },
-                breakpoints: {
-                  // when window width is >= 320px
-                  320: {
-                    slidesPerView: 1,
-                    spaceBetween: 20
-                  },
-                  // when window width is >= 480px
-                  480: {
-                    slidesPerView: 2,
-                    spaceBetween: 30
-                  },
-                  // when window width is >= 640px
-                  640: {
-                    slidesPerView: 2,
-                    spaceBetween: 40
-                  },
-                  992: {
-                    slidesPerView: 2,
-                    spaceBetween: 40
-                  },
-                  1200: {
-                    slidesPerView: 3,
-                    spaceBetween: 40
-                  },
-                  1600: {
-                    slidesPerView: 4,
-                    spaceBetween: 40
-                  },
-                  1920: {
-                    slidesPerView: 4,
-                    spaceBetween: 40
-                  }
-                },
-              });
-              </script>
-              <!--// Team slider -->
+  <!-- humberger menu -->
+  <script>
+    let navButton = document.querySelector(".nav-button");
 
-              <!-- Clients -->
-              <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
-              <script>
-              $(document).ready(function() {
-                $('.customer-logos').slick({
-                  slidesToShow: 6,
-                  slidesToScroll: 1,
-                  autoplay: true,
-                  autoplaySpeed: 1500,
-                  arrows: false,
-                  dots: false,
-                  pauseOnHover: false,
-                  responsive: [{
-                    breakpoint: 1920,
-                    settings: {
-                      slidesToShow: 6
-                    }
-                  },
-                  {
-                    breakpoint: 1600,
-                    settings: {
-                      slidesToShow: 5
-                    }
-                  },
-                  {
-                    breakpoint: 1200,
-                    settings: {
-                      slidesToShow: 4
-                    }
-                  },
-                  {
-                    breakpoint: 992,
-                    settings: {
-                      slidesToShow: 3
-                    }
-                  },
-                  {
-                    breakpoint: 768,
-                    settings: {
-                      slidesToShow: 3
-                    }
-                  },
+    navButton.addEventListener("click", e => {
+      e.preventDefault();
 
-                  {
-                    breakpoint: 520,
-                    settings: {
-                      slidesToShow: 2
-                    }
-                  }
-                ]
-              });
-            });
-            </script>
-            <!--// Clients -->
+      // toggle nav state
+      document.body.classList.toggle("nav-visible");
+    });
+  </script>
+  <!-- humberger menu -->
 
-            <!-- testimonials -->
-            <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script> -->
-            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
 
-            <script>
-            $(document).ready(function() {
-              $("#testimonial-slider").owlCarousel({
-                items: 1,
-                itemsDesktop: [1000, 1],
-                itemsDesktopSmall: [979, 1],
-                itemsTablet: [768, 1],
-                margin: 10,
-                pagination: false,
-                navigation: true,
-                navigationText: ["", ""],
-                autoPlay: true
-              });
-            });
-            </script>
-            <!--// testimonials -->
+  <!-- animate aos -->
+  <script>
+    AOS.init();
+  </script>
 
-            <!-- blogs area -->
-            <script>
-            var swiper = new Swiper('.blog-slider', {
-              spaceBetween: 30,
-              effect: 'fade',
-              loop: true,
-              mousewheel: {
-                invert: false,
-              },
-              // autoHeight: true,
-              pagination: {
-                el: '.blog-slider__pagination',
-                clickable: true,
-              }
-            });
-            </script>
-            <!--// blogs area -->
+  <!--// animate aos -->
 
-            <!-- =====================
+  <!-- Team slider -->
+  <script>
+    var swiper = new Swiper(".teamSlider", {
+      slidesPerView: 1,
+      spaceBetween: 10,
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+      autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+      breakpoints: {
+        // when window width is >= 320px
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 20
+        },
+        // when window width is >= 480px
+        480: {
+          slidesPerView: 2,
+          spaceBetween: 30
+        },
+        // when window width is >= 640px
+        640: {
+          slidesPerView: 2,
+          spaceBetween: 40
+        },
+        992: {
+          slidesPerView: 2,
+          spaceBetween: 40
+        },
+        1200: {
+          slidesPerView: 3,
+          spaceBetween: 40
+        },
+        1600: {
+          slidesPerView: 4,
+          spaceBetween: 40
+        },
+        1920: {
+          slidesPerView: 4,
+          spaceBetween: 40
+        }
+      },
+    });
+  </script>
+  <!--// Team slider -->
+
+  <!-- Clients -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 1920,
+            settings: {
+              slidesToShow: 6
+            }
+          },
+          {
+            breakpoint: 1600,
+            settings: {
+              slidesToShow: 5
+            }
+          },
+          {
+            breakpoint: 1200,
+            settings: {
+              slidesToShow: 4
+            }
+          },
+          {
+            breakpoint: 992,
+            settings: {
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 768,
+            settings: {
+              slidesToShow: 3
+            }
+          },
+
+          {
+            breakpoint: 520,
+            settings: {
+              slidesToShow: 2
+            }
+          }
+        ]
+      });
+    });
+  </script>
+  <!--// Clients -->
+
+  <!-- testimonials -->
+  <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script> -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+
+  <script>
+    $(document).ready(function() {
+      $("#testimonial-slider").owlCarousel({
+        items: 1,
+        itemsDesktop: [1000, 1],
+        itemsDesktopSmall: [979, 1],
+        itemsTablet: [768, 1],
+        margin: 10,
+        pagination: false,
+        navigation: true,
+        navigationText: ["", ""],
+        autoPlay: true
+      });
+    });
+  </script>
+  <!--// testimonials -->
+
+  <!-- blogs area -->
+  <script>
+    var swiper = new Swiper('.blog-slider', {
+      spaceBetween: 30,
+      effect: 'fade',
+      loop: true,
+      mousewheel: {
+        invert: false,
+      },
+      // autoHeight: true,
+      pagination: {
+        el: '.blog-slider__pagination',
+        clickable: true,
+      }
+    });
+  </script>
+  <!--// blogs area -->
+
+  <!-- =====================
             JS AREA END
             ===================== -->
 
 
 
 
-            </body>
+</body>
 
-            </html>
+</html>

@@ -8,7 +8,7 @@
   <meta name="description" content="We are a leading Professional Advertising & Branding Agency in India.We also focus on Brand Strategy,Brand Identity,Digital Design,Print Design,Packaging services">
   <title> Advertising &Professional Branding Agency,India|Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/branding.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/branding.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">

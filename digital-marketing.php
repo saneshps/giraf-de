@@ -8,7 +8,7 @@
   <meta name="description" content="Looking for a digital marketing company in India,then you are at the right place. We offer affordable online, Internet marketing,SEO services to clients">
   <title> Best Digital Marketing Company,India |SEO Agency|Giraf </title>
   <!-- canonical -->
-  <link href="https://giraf.in/digital-marketing.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/digital-marketing.php" rel="canonical">
   <!--// canonical -->
 
 

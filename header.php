@@ -12,7 +12,7 @@
          <span class='lines'></span>
        </button>
        <!-- logo -->
-       <a href="index.php"> <img class="logo" src="./img/logo.png" alt="logo"> </a>
+       <a href="https://girafcreatives.com/de"> <img class="logo" src="./img/logo.png" alt="logo"> </a>
        <!-- logo -->
      </div>
    </header>

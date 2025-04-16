@@ -7,9 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> The Power of Animation to Drive User Engagement | Marketing Maestros | Blogs | Giraf </title>
   <meta name="description" content="Elevate engagement with animated marketing! Captivate your audience through dynamic visuals and storytelling. Unleash the power of animation for maximum impact.">
-<!-- canonical -->
-<link href="https://giraf.in/the-power-of-animation-in-marketing.php.php" rel="canonical">
-<!--// canonical -->
+  <!-- canonical -->
+  <link href="https://girafcreatives.com/de/the-power-of-animation-in-marketing.php.php" rel="canonical">
+  <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 

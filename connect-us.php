@@ -9,7 +9,7 @@
   <meta name="description" content="Get in touch with the leading digital marketing company in Germany. For more details, visit girafcreatives.de or give us a call. Let's talk! +49 7581 48882-0">
 
   <!-- canonical -->
-  <link href="https://giraf.in/connect-us.php" rel="canonical">
+  <link href="https://girafcreatives.com/de/connect-us.php" rel="canonical">
   <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -189,10 +189,10 @@
         </div>
 
         <div class="col-xl-4 col-lg-5 col-md-12 felix-image">
-            <img src="./img/Felix_Kistler.png" alt="felix kistler">
-            <h4> Felix Kistler</h4>
-            <h5> <a href="tel:497581488820"> +49 / 7581 / 48882-0 </a> </h5>
-          </div>
+          <img src="./img/Felix_Kistler.png" alt="felix kistler">
+          <h4> Felix Kistler</h4>
+          <h5> <a href="tel:497581488820"> +49 / 7581 / 48882-0 </a> </h5>
+        </div>
 
 
       </div>
@@ -201,13 +201,13 @@
   <!-- ==========================
           ADDRESS FORM AREA END
      ============================ -->
-     <section class="map">
+  <section class="map">
     <div class="container">
       <div class="row">
         <div class="col-md-12 map-area">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d43739385.15551817!2d9.516960000000001!3d48.00134!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a4aa12f729af1%3A0xacd7701db1561118!2sKistler%20Maschinen-%20und%20Anlagenbau%20GmbH!5e0!3m2!1sen!2sin!4v1742820568533!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d43739385.15551817!2d9.516960000000001!3d48.00134!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a4aa12f729af1%3A0xacd7701db1561118!2sKistler%20Maschinen-%20und%20Anlagenbau%20GmbH!5e0!3m2!1sen!2sin!4v1742820568533!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 
-        </iframe>
+          </iframe>
         </div>
       </div>
     </div>

@@ -7,9 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Check out our Portfolio which made us the best Digital Marketing,Branding,E-commerce,Web Design & Development Company in India.Have a look at our extensive portfolio">
   <title> Digital Marketing & Web Design,Branding Company| Portfolio |Giraf </title>
-<!-- canonical -->
-<link href="https://giraf.in/kistler-portfolio.php" rel="canonical">
-<!--// canonical -->
+  <!-- canonical -->
+  <link href="https://girafcreatives.com/de/kistler-portfolio.php" rel="canonical">
+  <!--// canonical -->
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
