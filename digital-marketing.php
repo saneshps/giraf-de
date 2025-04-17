@@ -175,7 +175,7 @@
               <div class="col-xl-6 col-lg-6 col-md-12 services-list serv-first" data-aos="fade-right" data-aos-duration="2000">
                 <div class="row serv-digi">
                   <div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 serv-digital-image">
-                    <img src="./img/services/web/Digital-Marketing.jpg" alt="digital">
+                    <img src="./img/services/digatal/Digital-Marketing.jpg" alt="digital">
                   </div>
                   <div class="col-xl-8 col-lg-12 col-md-12 col-sm-12 services-list-box serv-detail-space serv-digital">
                     <h4> Digital Marketing - Your Trusted Marketing Partner </h4>
@@ -197,7 +197,7 @@
               <div class="col-xl-6 col-lg-6 col-md-12 services-list serv-first" data-aos="fade-right" data-aos-duration="2000">
                 <div class="row serv-digi">
                   <div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 serv-digital-image">
-                    <img src="./img/services/web/Digital-Marketing.jpg" alt="digital">
+                    <img src="./img/services/digatal/why-choose.jpg" alt="why-choose">
                   </div>
                   <div class="col-xl-8 col-lg-12 col-md-12 col-sm-12 services-list-box serv-detail-space serv-digital">
                     <h4> Why Choose Giraf? </h4>
