@@ -93,7 +93,7 @@
   <section>
     <div class="banner-area">
       <img src="./img/services/Digital-Marketing-banner.jpg" alt="banner">
-
+      <h1> Digital Marketing </h1>
     </div>
   </section>
   <!-- =====================
