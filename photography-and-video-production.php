@@ -91,7 +91,7 @@
   <section>
     <div class="banner-area">
       <img src="./img/services/Video&Photography.jpg" alt="banner">
-      <h1> Photography & Video Production </h1>
+      <h1> Product Explanatory Videos </h1>
     </div>
   </section>
   <!-- =====================

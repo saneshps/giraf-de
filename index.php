@@ -288,10 +288,10 @@ $result = $conn->query($sql);
   <section class="text-loop-area">
     <div class="loop-overlay"></div>
     <div class="l">
-      Digitales Marketing | Markenbildung | Design | Web- und App-Entwicklung | Fotografie und Videoproduktion | Animation
+      Digitales Marketing | Markenbildung | Design | Web- und App-Entwicklung | Produkt-Erklärvideos | Animation
     </div>
     <div class="r">
-      Digitales Marketing | Markenbildung | Design | Web- und App-Entwicklung | Fotografie und Videoproduktion | Animation
+      Digitales Marketing | Markenbildung | Design | Web- und App-Entwicklung | Produkt-Erklärvideos | Animation
     </div>
   </section>
 
@@ -515,7 +515,7 @@ $result = $conn->query($sql);
               <h2> <a href="designing.php"> Entwerfen </a> </h2>
               <h2> <a href="digital-marketing.php"> Digitales Marketing </a> </h2>
               <h2> <a href="animation.php"> Animation </a> </h2>
-              <h2> <a href="photography-and-video-production.php"> Fotografie und Videoproduktion </a> </h2>
+              <h2> <a href="photography-and-video-production.php"> Produkt-Erklärvideos </a> </h2>
               <h2> <a href="web-and-app-development.php"> Web- und App-Entwicklung </a> </h2>
 
 
