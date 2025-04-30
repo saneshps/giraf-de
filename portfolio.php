@@ -1458,15 +1458,18 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 lets-talk-first">
-            <h2> Lets talk </h2>
-            <h4> <a> Global Collaboration, Local Excellence </a> </h4>
+            <h4> Wir verbinden Stimmen auf der ganzen Welt </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 lets-talk-scnd">
-            <p> We seamlessly connect with clients worldwide, ensuring constant interaction and support. Our dedicated team operates locally, right here in our office, to deliver comprehensive marketing solutions that cater to the diverse needs of our esteemed clients from across the globe. Whether it's about your brand, business, or campaign requirements, we're eager to engage in discussions and craft customized strategies that will set your brand above the competition.
+            <p> Wir pflegen enge Beziehungen zu unseren Kunden weltweit und arbeiten Hand in Hand, um ihre
+              Ziele zu unterstützen. Unser Team steht Ihnen jederzeit zur Verfügung, um Ihre Fragen zu
+              beantworten. Ganz gleich, ob es sich um Ihre Marke, Ihr Unternehmen oder Ihre
+              Kampagnenanforderungen handelt — wir sind bereit zuzuhören und individuell zugeschnittene
+              Strategien zu liefern, die Ihrer Marke helfen, sich abzuheben.
             </p>
           </div>
           <!--// col-md-8 -->
@@ -1474,7 +1477,7 @@
           <!-- =============== BUTTON =================== -->
           <div class="read-more">
             <a href="contact.php" class="btn btn-lg">
-              Contact Us
+              Kontaktieren Sie uns
               <i class="fas fa-angle-right"></i>
             </a>
           </div>

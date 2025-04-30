@@ -4,8 +4,8 @@
         <!-- first -->
         <div class="col-xl-4 col-lg-4 col-md-6 footer-first">
           <p class="f-address"> Kistler Maschinen- und Anlagenbau GmbH, <br>
-            Mackstrasse 84, <br>
-            88348 Bad Saulgau, Germany
+            Mackstraße 84, <br>
+            88348 Bad Saulgau, Deutschland
           </p>
           <p> <a href="tel:497581488820"> +49 / 7581 / 48882-0 </a> </p>
           <p> <a href="mailto:info@girafcreatives.com"> info@girafcreatives.com </a> </p>
@@ -26,7 +26,7 @@
        =======================-->
 
           <img src="./img/logo.png" alt="logo">
-          <p> © 2025 Alle Rechte vorbehalten <span> <a href="https://girafcreatives.com/de" target="_blank"> Giraf </a> </span> creatives
+          <p> © 2025 Alle Rechte vorbehalten <span> <a href="https://girafcreatives.com/de" target="_blank"> Giraf Creatives </a> </span>
           </p>
         </div>
         <!-- secnd -->

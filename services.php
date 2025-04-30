@@ -106,15 +106,16 @@
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 services-text-first">
             <h6> Services</h6>
-            <h4> Let’s make something great together </h4>
+            <h4> Was uns auszeichnet </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 services-text-scnd">
-            <p> A solid foundation is essential for any business to thrive, and we are here to build your business,
-              to help you narrate your unique story that catches the eyes of your audience.
+            <p> Wir sind vielleicht nicht die besten Sänger oder Tänzer, aber wir gehören definitiv zu den besten
+              Digital-Marketing-Profis. Im Spiel der Wettbewerbsfähigkeit gilt bei uns: Wir spielen, um zu
+              gewinnen.
             </p>
           </div>
           <!--// col-md-8 -->
@@ -138,7 +139,7 @@
   <section class="services-list-area serv-detail">
     <div class="container">
 
-      <h2> Welcome to the creator’s hub </h2>
+      <h2> 360-Grad-Digitalmarketing </h2>
       <div class="row">
         <div class="col-xl-12 col-lg-12 col-md-12 services-list">
           <div class="row box-commn">
@@ -149,9 +150,9 @@
                 <a href="digital-marketing.php">
                   <h3> 01 </h3>
                   <h2> Digital Marketing </h2>
-                  <p> Consumer behaviour has changed drastically over the past decade. A pivotal change has undergone
-                    in the way customers search, review and purchase their products. This shift in the consumer
-                    journey to the online space redefined the face of marketing...
+                  <p> Das Konsumverhalten hat sich in den letzten zehn Jahren drastisch verändert. Ein grundlegender
+                    Wandel hat stattgefunden in der Art und Weise, wie Kunden nach Produkten suchen, sie
+                    bewerten und kaufen. Diese Verlagerung der Kundenreise...
                   </p>
                   <span href="digital-marketing.php"> View More ... </span>
                 </a>
@@ -165,9 +166,9 @@
                 <a href="branding.php">
                   <h3> 02 </h3>
                   <h2> Branding </h2>
-                  <p> A unique brand is the hallmark of a company. The strength of the brand plays an important
-                    role in establishing the business venture as a distinguished enterprise in the competitive
-                    field. A well wrought branding is the perfect blend of a well designed logo that is ...
+                  <p> Eine einzigartige Marke ist das Erkennungszeichen eines Unternehmens. Die Stärke der Marke
+                    spielt eine entscheidende Rolle bei der Etablierung eines Unternehmens als angesehenes
+                    Unternehmen auf dem wettbewerbsintensiven Markt....
                   </p>
                   <span href="branding.php"> View More ... </span>
                 </a>
@@ -181,9 +182,9 @@
                 <a href="designing.php">
                   <h3> 03 </h3>
                   <h2> Designing </h2>
-                  <p> Designing is the integral part of building a business foundation as it determines the entire outlook of the company’s venture.
-                    With the best designing services at your call you can develop your business and stand out from the track of the known.
-                  </p>
+                  <p> Design ist ein wesentlicher Bestandteil des Aufbaus einer Unternehmensbasis, da es den
+                    gesamten Auftritt des Unternehmens bestimmt. Mit den besten Designservices an Ihrer Seite
+                    können Sie Ihr Unternehmen entwickeln und sich von der Masse abheben. </p>
                   <span href="designing.php"> View More ... </span>
                 </a>
               </div>
@@ -195,10 +196,10 @@
               <div class="services-list-box serv-detail-space serv-page">
                 <a href="web-and-app-development.php">
                   <h3> 04 </h3>
-                  <h2> Web and App Development</h2>
-                  <p>A strong digital presence is crucial for any business to succeed.
-                    In an era where multiple companies compete to establish their presence
-                    in the online platform, a well organised website is an absolute necessity...
+                  <h2> Web- und App-Entwicklung </h2>
+                  <p> Eine starke digitale Präsenz ist entscheidend für den Erfolg eines Unternehmens. In einer Zeit, in
+                    der viele Unternehmen um ihre Online-Präsenz konkurrieren, ist eine gut organisierte Website
+                    eine absolute Notwendigkeit.
 
                   </p>
                   <span href="web-and-app-development.php"> View More ... </span>
@@ -212,10 +213,10 @@
               <div class="services-list-box serv-detail-space serv-page">
                 <a href="photography-and-video-production.php">
                   <h3> 05 </h3>
-                  <h2> Product Explanatory Videos </h2>
-                  <p> In this digital age where access to information is preferred in a swift and concise manner,
-                    engaging and retaining the interest of the users has become a challenging task.
-                    It is essential that the companies develop effective strategies...
+                  <h2> Produkt-Erklärvideos </h2>
+                  <p> In diesem digitalen Zeitalter, in dem schneller und präziser Zugang zu Informationen bevorzugt
+                    wird, ist es eine Herausforderung, das Interesse der Nutzer zu gewinnen und zu halten.
+                    Unternehmen müssen effektive Strategien entwickeln, um Nutzer zu fesseln.
                   </p>
                   <span href="photography-and-video-production.php"> View More ... </span>
                 </a>
@@ -231,11 +232,9 @@
                   <h2> Animation </h2>
 
                   <h5> YOU DREAM IT AND WE DO IT </h5>
-                  <p> From creating motion pictures from hand drawn images to assembling them with just one click,
-                    humans have come a long way in the course of animation. The novel technologies employed
-                    in generating captivating and engaging animated video...
-
-
+                  <p> Von der Erstellung bewegter Bilder aus handgezeichneten Illustrationen bis hin zur digitalen
+                    Animation per Mausklick — Animation hat einen langen Weg zurückgelegt. Moderne
+                    Technologien ermöglichen...
                   </p>
                   <span href="animation.php"> View More ... </span>
                 </a>
@@ -285,22 +284,16 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 benifits-first">
-            <h6> Why settle on us?</h6>
-            <h4> Innovative and passionate </h4>
+            <h6> Warum wir? </h6>
+            <h4> Innovativ und leidenschaftlich </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 benifits-scnd">
-            <p> Unique solutions and exceptional services are delivered to our customers that will
-              make them recognizable and take them to the next level. Our hard-core passion for Digital
-              marketing is immense. It’s not just mere work for us, this is our dream and passion.
-              Who doesn't wish to be like a Giraffe in the animal kingdom - to stand tall,
-              to be unique, and be recognized in any crowd? If you wish for it, we make it a reality!
-              A strong passion for innovation and creativity makes us a brilliant digital marketing
-              and web development partner. A constantly striving company that finds new ways to enhance
-              the revenue levels of our clients.</p>
+            <p> Wir sind jung, kreativ und ehrgeizig. Wir setzen auf langfristigen Erfolg und möchten Sie nicht
+              nur heute, sondern auch in Zukunft erfolgreich sehen. </p>
 
           </div>
           <!--// col-md-8 -->
@@ -324,23 +317,15 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" checked />
                 <h4 class="accordian-header active">
-                  Premium Quality Services
+                  Premium-Qualitätsservices
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content" tabindex="2">
 
-                  <p>
-                    What makes us stand tall?
-                    An efficient team with high expertise in delivering exceptional solutions thereby exceeding clients'
-                    expectations.
-                    This quality of service makes us stand tall among our competitors.
-                    Only an expert team and the best technology can result in quality services. Any doubt? The
-                    innovative and creative
-                    service we provide is unparalleled. Offers a quality-oriented service, so we can achieve and exceed
-                    our customer
-                    satisfaction.
-
-                  </p>
+                  <p> Was uns herausragen lässt? Ein effizientes Team mit hoher Expertise, das außergewöhnliche
+                    Lösungen liefert und die Erwartungen der Kunden übertrifft. Qualitätsorientierte
+                    Dienstleistungen machen uns einzigartig. Nur ein Expertenteam und modernste Technologien
+                    können diese Exzellenz erreichen. </p>
 
 
                 </div>
@@ -349,17 +334,14 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" />
                 <h4 class="accordian-header">
-                  All-inclusive agency
+                  Allumfassende Energie
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content">
-                  <p>
-                    A gamut of Digital Services Under One Roof. All digital marketing services required are on our
-                    list from conceptualizing your website to promoting it on the internet.
-                    Extensive range of services offered by an all-encompassing digital marketing firm. A wide range of
-                    services includes
-                    Branding, Designing, Web and App Development, Digital Marketing, Photography, Video Production,
-                    Animation, etc.
+                  <p> Ein breites Spektrum an digitalen Dienstleistungen unter einem Dach. Von der Konzeption Ihrer
+                    Website bis hin zur Online-Vermarktung bieten wir umfassende Digital-Marketing-Services an:
+                    Branding, Design, Web- und App-Entwicklung, Digital Marketing, Fotografie, Videoproduktion,
+                    Animation und mehr.
 
                   </p>
                 </div>
@@ -368,49 +350,18 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" />
                 <h4 class="accordian-header">
-                  Better return on investment (Worth Every Penny)
+                  Besserer Return on Investment (Wert für Ihr Geld)
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content">
 
-                  <p> Less Investment
-                    Greater Return </p>
+                  <p> Weniger Investition, größere Erträge. Unsere Servicepakete im Bereich Digital Marketing,
+                    Webentwicklung und Design bieten wettbewerbsfähige Preise und maximale Effizienz. Wir
+                    sorgen dafür, dass jede investierte Summe gut genutzt wird. </p>
                   <p>
-                    Help your business in saving money on promotions. All our digital marketing,
-                    web development, and designing service packages are offered at competitive
-                    prices at your comfort. Our professionals leave no stone unturned to ensure
-                    good returns from every money you have invested with us.
-                  </p>
-                  <p> Standing tall among your competitors is no longer expensive. Whether it’s a
-                    small business or a start-up, digital marketing is an affordable and easy method of promotion.
-                    Provides tailor-made solutions that will help you stand and stay tall always within your budget.</p>
-
-                  <p> Unlike traditional marketing, digital marketing is more targeted and this makes it more
-                    cost-effective.
-                    Retargeting is made easy and helps increase conversion rates in real time. You can continually
-                    evaluate
-                    how and if it is working affordably.</p>
-
-                  <p> Digital marketing has low-cost content and Customer Engagement.
-                    Without exerting too much spending power, digital marketing experts increase brand awareness
-                    through beautiful and the simplest means,</p>
-                </div>
-              </div>
-
-
-              <div class="accordion">
-                <input type="radio" name="radacc" class="accordian-chk" />
-                <h4 class="accordian-header">
-                  Shipshape Strategy / Strategic planning
-                  <span class="acc-icon"></span>
-                </h4>
-                <div class="accordian-content">
-                  <p>
-                    Our strategy is simple, trimmed, and neat. Understand the client’s objectives and customize
-                    solutions.
-                    Our hunger for achievement makes your business graph reach new heights. Defines strategy,
-                    shows you the direction and helps in making decisions on allocating its ideas to attain
-                    strategic goals.
+                    In der digitalen Welt ist Marketing kostengünstiger und gezielter als traditionelle Methoden.
+                    Retargeting wird erleichtert und erhöht die Konversionsraten. Kontinuierliche Überwachung und
+                    Optimierung sichern nachhaltigen Erfolg.
                   </p>
                 </div>
               </div>
@@ -419,21 +370,14 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" />
                 <h4 class="accordian-header">
-                  Finest Customer service and Support
+                  Durchdachte Strategie / Strategische Planung
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content">
-                  <p>
-                    “Just a ring away” <br>
-                    We are always available for you, be it any queries on services or packages, to discuss new projects,
-                    or to know the status of an ongoing project. We never leave any stone unturned in supporting and
-                    guiding our customers.
-
+                  <p> Unsere Strategie ist einfach, klar und zielgerichtet: Wir verstehen die Ziele unserer Kunden und
+                    passen unsere Lösungen individuell an. Unser Hunger nach Erfolg lässt Ihr Geschäft auf neue
+                    Höhen wachsen.
                   </p>
-
-                  <p> Make queries at your convenience, regarding our services & packages, discuss new projects,
-                    for asking about the status of an ongoing project, or do anything you want to know about
-                    digital marketing.</p>
                 </div>
               </div>
 
@@ -441,15 +385,30 @@
               <div class="accordion">
                 <input type="radio" name="radacc" class="accordian-chk" />
                 <h4 class="accordian-header">
-                  Results Oriented
+                  Hervorragender Kundenservice und Support
                   <span class="acc-icon"></span>
                 </h4>
                 <div class="accordian-content">
-                  <p>
-                    We are all driven by results. We recognize our clients as individuals. We understand
-                    and focus on our client's specific business goals and implement strategies on the best
-                    way to achieve them online. Increased Traffic, Engagement, and growth on clients'
-                    platforms, that is what focused on.
+                  <p> Nur einen Anruf entfernt. </p>
+
+                  <p> Wir sind jederzeit für Sie da, egal ob bei Fragen zu Services, Paketen, neuen Projekten oder dem
+                    Status eines laufenden Projekts. Unser Ziel ist es, unsere Kunden stets optimal zu unterstützen
+                    und zu beraten.</p>
+                </div>
+              </div>
+
+
+              <div class="accordion">
+                <input type="radio" name="radacc" class="accordian-chk" />
+                <h4 class="accordian-header">
+                  Ergebnisorientiert
+                  <span class="acc-icon"></span>
+                </h4>
+                <div class="accordian-content">
+                  <p> Wir sind ergebnisgetrieben. Wir erkennen unsere Kunden als Individuen, verstehen ihre
+                    spezifischen Geschäftsziele und setzen die besten Strategien zur Online-Umsetzung ein. Mehr
+                    Traffic, höheres Engagement und Wachstum auf den Plattformen unserer Kunden — darauf
+                    konzentrieren wir uns.
                   </p>
                 </div>
               </div>
@@ -483,15 +442,19 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 lets-talk-first">
-            <h2> Lets talk </h2>
-            <h4> Global Collaboration, Local Excellence </h4>
+            <h4> Wir verbinden Stimmen auf der ganzen Welt </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 lets-talk-scnd">
-            <p> We seamlessly connect with clients worldwide, ensuring constant interaction and support. Our dedicated team operates locally, right here in our office, to deliver comprehensive marketing solutions that cater to the diverse needs of our esteemed clients from across the globe. Whether it's about your brand, business, or campaign requirements, we're eager to engage in discussions and craft customized strategies that will set your brand above the competition.
+            <p> Wir pflegen enge Beziehungen zu unseren Kunden weltweit und arbeiten Hand in Hand,
+              um ihre Ziele zu unterstützen. Unser Team steht Ihnen jederzeit zur Verfügung,
+              um Ihre Fragen zu beantworten. Ganz gleich, ob es sich um Ihre Marke,
+              Ihr Unternehmen oder Ihre Kampagnenanforderungen handelt — wir sind bereit zuzuhören
+              und individuell zugeschnittene Strategien zu liefern, die Ihrer Marke helfen, sich abzuheben.
+
             </p>
           </div>
           <!--// col-md-8 -->
@@ -499,7 +462,7 @@
           <!-- =============== BUTTON =================== -->
           <div class="read-more">
             <a href="contact.php" class="btn btn-lg">
-              Contact Us
+              Kontaktieren Sie uns
               <i class="fas fa-angle-right"></i>
             </a>
           </div>

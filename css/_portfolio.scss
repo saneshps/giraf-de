@@ -44,7 +44,7 @@
     .about-home-scnd {
         display: flex;
         justify-content: center;
-        align-items: center;
+        align-items: flex-start;
         flex-direction: column;
 
         @include respond-below(md) {

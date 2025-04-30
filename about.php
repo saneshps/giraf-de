@@ -112,22 +112,16 @@
           <!-- first -->
           <div class="col-xl-8 col-lg-5 col-md-12 about-first">
             <h6> Über uns </h6>
-            <h4> Stehen Sie aufrecht, stehen Sie selbstbewusst, fallen Sie auf</h4>
-            <p> Wer wir sind? Eine Gruppe kreativer Köpfe, die mit Leidenschaft Inhalte
-              entschlüsseln und neu kodieren, um einzigartige digitale Marketing-Assets
-              zu erstellen. In einer Welt, die von Wettbewerbsgeist und innovativen
-              Ansätzen geprägt ist, ist es Girafs Ziel, unseren Kunden weltweit die
-              perfekte Plattform zu bieten, um selbstbewusst und selbstbewusst zu agieren.
-
-
-            </p>
-            <p> Wir konzentrieren uns auf die drei S. Daher steht Ihnen unser Team aus jungen
-              und ambitionierten Digitalmarketing-Spezialisten, Grafikdesignern,
-              Web-/App-Entwicklern und Content-Erstellern jederzeit zur Verfügung,
-              um Sie auf dem Weg zur Etablierung und Durchsetzung Ihres Wettbewerbsvorteils zu begleiten.
-
-            </p>
-
+            <h4> Wir hören dir gerne zu – deiner Geschichte, deinen Erfolgen und deinen Zukunftsplänen.
+              Wir möchten Teil deiner Reise sein. </h4>
+            <p> Wir sind Giraf, eine kreative Agentur, die durch Erkenntnisse, Innovation und Ideen
+              angetrieben wird, um starke Markenauftritte zu schaffen. Unser Team kreativer Denker
+              arbeitet Hand in Hand, um Ideen und Inhalte zu entwickeln und eine auf dich
+              zugeschnittene Marketingstrategie aufzubauen. </p>
+            <p> Mit gezieltem Einfluss möchten wir deine Marke so positionieren, dass sie sich im
+              Wettbewerb deutlich abhebt. </p>
+            <p>Giraf versteht sich als der ideale Partner für mutige und ambitionierte Kunden auf der
+              ganzen Welt.</p>
 
           </div>
           <!-- first -->
@@ -160,14 +154,14 @@
         <div class="row box-commn">
           <!-- first -->
           <div class="col-xl-6 col-lg-12 col-md-12 why-first">
-            <h6> Wie helfen wir Ihnen, oben zu stehen? </h6>
-            <h4> Der Horizont des Erfolgs ist nicht mehr fern, denn Giraf ist mit den besten Dienstleistungen für Sie da:</h4>
+            <h6> Mit Giraf ist der Horizont des Erfolgs zum Greifen nah</h6>
+            <h4> Wir sind gute Zuhörer. Und wir entwickeln verrückte, außergewöhnliche Ideen: </h4>
             <ul>
-              <li> <i class="fas fa-grip-lines"></i> Der beste Aktionsplan und die ordnungsgemäße Umsetzung digitaler Marketingstrategien gewährleisten absoluten Erfolg. </li>
-              <li> <i class="fas fa-grip-lines"></i> Projekte, die von einem Team erfahrener und zertifizierter Experten durchgeführt werden. </li>
-              <li> <i class="fas fa-grip-lines"></i> Bleiben Sie immer über die sich ändernden Marketingmaßnahmen auf dem Laufenden und entwickeln Sie entsprechend neue Strategien. </li>
-              <li> <i class="fas fa-grip-lines"></i> Nutzung von Premium-Tools zur Verbesserung von Ideen. </li>
-              <li> <i class="fas fa-grip-lines"></i> Sorgt für eine reibungslose und nachhaltige Entwicklung. </li>
+              <li> <i class="fas fa-grip-lines"></i> Ein Team aus erfahrenen und hochqualifizierten Experten. </li>
+              <li> <i class="fas fa-grip-lines"></i> Strategische Planung und präzise Umsetzung für nachhaltigen digitalen Erfolg. </li>
+              <li> <i class="fas fa-grip-lines"></i> Immer auf dem neuesten Stand bleiben, um an der Spitze zu bleiben. </li>
+              <li> <i class="fas fa-grip-lines"></i> Einsatz hochwertiger Premium-Tools. </li>
+              <li> <i class="fas fa-grip-lines"></i> Sicherstellung eines reibungslosen und nachhaltigen Markenwachstums. </li>
             </ul>
 
           </div>
@@ -300,18 +294,15 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 trust-first">
-            <h6> Wessen sind bei uns </h6>
-            <h4> Diejenigen, die uns vertrauen </h4>
+            <h6> An alle ambitionierten Kunden da draußen: </h6>
+            <!-- <h4> Diejenigen, die uns vertrauen </h4> -->
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 trust-scnd">
-            <p> Kreative Reisen sind herausfordernd, aber mit neugierigen Köpfen im Einklang mit Träumen, Wünschen und Zielen können Hürden mit Leichtigkeit bewältigt werden.
-
-            </p>
-            <p>Giraf sorgt für den Erfolg und die Zufriedenheit unserer Kunden. Werden Sie Teil dieser kreativen Saga und heben Sie sich von der Masse ab. </p>
+            <p> Wir sind bereit, gemeinsam mit euch eure Ideen zum Leben zu erwecken. </p>
           </div>
           <!--// col-md-8 -->
 

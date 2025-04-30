@@ -1753,7 +1753,7 @@ h2 {
 .portfolio-area .about-home-scnd {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
 }
 @media (max-width: 991px) {
@@ -6562,7 +6562,8 @@ h2 {
 .blogs-home-area .main-box .blogs-home-scnd {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  flex-direction: column;
 }
 @media (max-width: 991px) {
   .blogs-home-area .main-box .blogs-home-scnd {
@@ -8019,7 +8020,7 @@ h2 {
   text-transform: uppercase;
   font-family: "Oswald", sans-serif !important;
   letter-spacing: 3px;
-  margin: 0;
+  margin: 0 0 30px 0;
   line-height: 100px;
   color: #333;
 }

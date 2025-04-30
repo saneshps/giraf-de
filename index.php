@@ -141,14 +141,14 @@ $result = $conn->query($sql);
         <div class="slider-text">
           <div class="swiper-wrapper">
             <div class="swiper-slide slider-text__slide">
-              <h1> Globales Wachstum <br>
-                <span> Hoch expandieren </span>
+              <h1> Dein zuverlässiger <br>
+                <span> Partner für Branding </span>
               </h1>
-              <p> Stehen Sie aufrecht und selbstbewusst </p>
+              <!-- <p> Stehen Sie aufrecht und selbstbewusst </p> -->
 
               <div class="read-more">
                 <a href="connect-us.php" class="btn btn-lg">
-                  Kontaktieren Sie uns
+                  Kontakt
                   <i class="fas fa-angle-right"></i>
                 </a>
               </div>
@@ -246,8 +246,9 @@ $result = $conn->query($sql);
 
           <!-- col-md-4 -->
           <div class="col-xl-5 col-lg-6 col-md-12 about-home-first">
-            <h6> ÜBER UNS </h6>
-            <h4> Eine Gruppe kreativer Köpfe, die gemeinsam daran arbeiten, Ihre Marke zu neuen Höhen zu führen
+            <h6> Über uns </h6>
+            <h4> Wir hören dir gerne zu – deiner Geschichte, deinen Erfolgen und deinen
+              Zukunftsplänen. Wir möchten Teil deiner Reise sein.
             </h4>
 
           </div>
@@ -256,8 +257,10 @@ $result = $conn->query($sql);
 
           <!-- col-md-8 -->
           <div class="col-xl-4 col-lg-3 col-md-12 about-home-scnd">
-            <p> Wer sind wir? Eine Gruppe kreativer Köpfe, die mit Leidenschaft Inhalte dekodieren
-              und neu kodieren, um einzigartige digitale Marketing-Assets zu erstellen.
+            <p> Wir sind Giraf, eine kreative Agentur, die durch Erkenntnisse, Innovation und Ideen
+              bewegt wird, um starke Markenauftritte zu gestalten. Unser Team kreativer Köpfe
+              arbeitet Hand in Hand, um Ideen und Inhalte zu entwickeln und eine wirkungsvolle
+              Marketingstrategie aufzubauen.
             </p>
           </div>
           <!--// col-md-8 -->
@@ -267,7 +270,7 @@ $result = $conn->query($sql);
           <!-- =============== BUTTON =================== -->
           <div class="read-more">
             <a href="about.php" class="btn btn-lg">
-              damit mehr
+              Mehr erfahren
               <i class="fas fa-angle-right"></i>
             </a>
           </div>
@@ -310,24 +313,25 @@ $result = $conn->query($sql);
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 about-home-first">
-            <h6> PORTFOLIO </h6>
-            <h4> Beginnen Sie die Geschichte Ihrer Marke neu </h4>
+            <h6> Projekte </h6>
+            <h4> Marken, die mutig genug waren, sich von der Masse abzuheben.
+            </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 about-home-scnd">
-            <p> Die perfekte Kombination aus anregenden Ideen und digitaler Kreativität.
-              Effiziente, profitable und wettbewerbsfähige digitale Marketingstrategien.
-              Es ist nicht nur eine Marke, es ist ein Markenzeichen und nicht nur ein Prozess,
-              es sind unvergessliche Erinnerungen, die entstehen. Konzeption und
-              Präsentation neuartiger Ideen durch Team Giraf. Schauen Sie sich das hier an.
+            <p> Dort, wo ausdrucksstarke Ideen auf digitale Kreativität treffen und bleibende
+              Markenerlebnisse entstehen.</p>
+            <p> Durch Ideation und exzellente Umsetzung übertreffen unsere Markengeschichten die
+              Erwartungen unserer Kunden. Denn es geht nicht nur um eine Marke – es geht um ein
+              echtes Erkennungszeichen. Und es ist nicht nur ein Prozess – es ist die Entfaltung
+              einzigartiger Markenerzählungen.
             </p>
 
-            <p> Wir wissen, dass Sie neugierig sind und mehr von unseren Projekten sehen möchten.
-              Jedes unserer Projekte ist einzigartig und wird von unserem Designteam individuell gestaltet. Hier können Sie weitere Projekte sehen, die unsere Kunden zufriedenstellen.
-              Weitere Arbeiten
+            <p> Jedes unserer Projekte ist individuell und maßgeschneidert auf die spezifischen
+              Anforderungen unserer Kunden.
             </p>
           </div>
           <!--// col-md-8 -->
@@ -448,9 +452,7 @@ $result = $conn->query($sql);
 
             <!-- col-md-8 -->
             <div class="col-xl-8 col-lg-10 col-md-10 col-xs-12 mx-auto portfolio-p">
-              <p> Wir wissen, Sie sind jetzt neugierig auf weitere Arbeiten. Jedes unserer Projekte
-                zeichnet sich durch das lebendige Design unseres Designteams aus. Sehen Sie sich
-                die Arbeiten unseres hervorragenden Teams an, die unsere Kunden überzeugt haben.
+              <p> Klicke unten, um weitere spannende Projekte zu entdecken.
 
               </p>
             </div>
@@ -459,7 +461,7 @@ $result = $conn->query($sql);
             <!-- =============== BUTTON =================== -->
             <div class="read-more">
               <a href="portfolio.php" class="btn btn-lg">
-                Weitere Werke
+                Weitere Projekte
                 <i class="fas fa-angle-right"></i>
               </a>
             </div>
@@ -487,7 +489,7 @@ $result = $conn->query($sql);
           <!-- col-md-4 -->
           <div class="col-xl-5 col-lg-5 col-md-12 services-home-first">
             <h6> DIENSTLEISTUNGEN </h6>
-            <h4> Wir expandieren weltweit </h4>
+            <h4> Wir geben uns nicht mit &quot;besser&quot; zufrieden – wir gestalten Exzellenz </h4>
           </div>
           <!--// col-md-4 -->
 
@@ -511,11 +513,11 @@ $result = $conn->query($sql);
           <ul>
             <li>
 
-              <h2> <a href="branding.php"> Markenbildung </a> </h2>
-              <h2> <a href="designing.php"> Entwerfen </a> </h2>
-              <h2> <a href="digital-marketing.php"> Digitales Marketing </a> </h2>
+              <h2> <a href="branding.php"> Branding </a> </h2>
+              <h2> <a href="designing.php"> Designing </a> </h2>
+              <h2> <a href="digital-marketing.php"> Digital Marketing </a> </h2>
               <h2> <a href="animation.php"> Animation </a> </h2>
-              <h2> <a href="photography-and-video-production.php"> Produkt-Erklärvideos </a> </h2>
+              <h2> <a href="photography-and-video-production.php"> Fotografie und Videoproduktion </a> </h2>
               <h2> <a href="web-and-app-development.php"> Web- und App-Entwicklung </a> </h2>
 
 
@@ -525,7 +527,7 @@ $result = $conn->query($sql);
           <!-- =============== BUTTON =================== -->
           <div class="read-more">
             <a href="services.php" class="btn btn-lg">
-              Unsere Dienste
+              Unsere Services
               <i class="fas fa-angle-right"></i>
             </a>
           </div>
@@ -552,16 +554,16 @@ $result = $conn->query($sql);
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 clients-home-first">
-            <h6> KUNDEN </h6>
-            <h4> Die Kameradschaft </h4>
+            <h6> Kunden </h6>
+            <h4> Die Gemeinschaft </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 clients-home-scnd">
-            <p> Gemeinsam gestalten wir den Erfolg.
-              Ihr Vertrauen ist unser Versprechen.
+            <p> Die mutigen Visionäre aus der Geschäftswelt, die den Sprung wagen und ihre
+              Ambitionen in die Tat umsetzen.
             </p>
           </div>
           <!--// col-md-8 -->
@@ -764,18 +766,20 @@ $result = $conn->query($sql);
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 blogs-home-first">
             <h6> BLOGS </h6>
-            <h4> Lassen Sie uns gemeinsam unser Wissen teilen </h4>
+            <h4> Wir halten dich auf dem Laufenden. </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 blogs-home-scnd">
-            <p> Wir teilen unser Wissen und unsere Erfahrung gerne mit Ihnen. Wir möchten, dass Sie wissen und verstehen,
-              wie digitales Marketing Ihr Unternehmen voranbringen kann. Sie sollten die richtige Methode für den Erfolg
-              Ihres Unternehmens kennen. Schauen Sie regelmäßig in diesem Bereich vorbei, um aktuelle Informationen zu erhalten.
-
-            </p>
+            <p> Die Welt bewegt sich schnell, und wer vorne bleiben will, muss sich ständig
+              weiterentwickeln. </p>
+            <p>Wir beobachten die neuesten Trends im Digital Marketing genau und passen uns
+              laufend den Innovationen an.</p>
+            <p>Denk daran: Es geht immer um kontinuierliches Wachstum.</p>
+            <p>Bleib bei uns – bleib auf dem neuesten Stand!
+              Hier findest du regelmäßig neue Updates.</p>
           </div>
           <!--// col-md-8 -->
 

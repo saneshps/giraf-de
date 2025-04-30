@@ -113,19 +113,20 @@
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
             <h6> DIGITAL MARKETINGS </h6>
-            <h4> Digital Marketing - Planned Strategy Wins Race </h4>
+            <h4> Digital Marketing – Geplante Strategien gewinnen das Rennen </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd flex-column align-items-start">
-            <p class="pb-2"> Internet ads are the new Front page ads of today. </p>
-            <p> Giraf offers a comprehensive range of digital marketing products to boost engagement and lead to sales in cyberspace. </p>
+            <p class="pb-2"> Internetanzeigen sind die neuen Titelseitenanzeigen von heute.</p>
+            <p> Giraf bietet ein umfassendes Spektrum an Digital-Marketing-Produkten, um Engagement zu
+              fördern und den Verkauf im Cyberspace zu steigern. </p>
             <ul class="service-detailes-brief-scnd-list">
-              <li> Leads that guarantee better reach </li>
-              <li> Enhanced Brand Reputation </li>
-              <li> Audience optimization </li>
+              <li> Leads, die eine bessere Reichweite garantieren </li>
+              <li> Verbesserter Markenruf </li>
+              <li> Zielgruppenoptimierung </li>
 
             </ul>
           </div>
@@ -155,17 +156,18 @@
 
               <!-- col-md-12 -->
               <div class="col-md-12 service-detailes-brief-scnd flex-column align-items-start">
-                <p class="text-left"> Consumer behaviour has changed drastically over the past decade.
-                  A pivotal change has undergone in the way customers search, review and purchase their products.
-                  This shift in the consumer journey to the online space redefined the face of marketing.
-                  This transition is highly beneficial for businesses, as their services or products
-                  can be advertised and thereby marketed through online platforms. Digital marketing
-                  is an integral process that serves as a bridge between your company’s services
-                  and your target audience. It helps you to set your objectives, target a specific audience,
-                  understand their search intent, develop and execute a proper plan that will skyrocket
-                  your business enterprise. Giraf provides you with the best digital marketing
-                  strategies that will guarantee success.
+                <p class="text-left"> Das Konsumverhalten hat sich in den letzten zehn Jahren drastisch verändert. Ein grundlegender
+                  Wandel hat stattgefunden in der Art und Weise, wie Kunden nach Produkten suchen, sie
+                  bewerten und kaufen. Diese Verlagerung der Kundenreise in den Online-Bereich hat das Gesicht
+                  des Marketings neu definiert.
                 </p>
+                <p> Dieser Übergang ist für Unternehmen äußerst vorteilhaft, da ihre Dienstleistungen oder Produkte
+                  nun über Online-Plattformen beworben werden können. Digitales Marketing ist ein integraler
+                  Prozess, der als Brücke zwischen den Dienstleistungen eines Unternehmens und seiner
+                  Zielgruppe dient. Es hilft dabei, Ihre Ziele zu setzen, eine bestimmte Zielgruppe anzusprechen,
+                  ihre Suchintention zu verstehen, einen passenden Plan zu entwickeln und umzusetzen, der Ihr
+                  Unternehmen durchstarten lässt.</p>
+                <p>Giraf bietet Ihnen die besten Digital-Marketing-Strategien, die Ihren Erfolg garantieren.</p>
 
               </div>
               <!--// col-md-12 -->
@@ -230,23 +232,25 @@
                   </div>
 
                   <div class="col-xl-6 col-lg-12 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-                    <h4> Search Engine Optimization (SEO) </h4>
-                    <p> SEO/Search Engine Optimization is the process of optimizing web pages to increase its media visibility
-                      on search engines which will result in the top ranking of that website in the Search Engine Result Page.
-                      If a website is built with a high quality content as its core, the search engines will recognize it as a
-                      reliable source which will increase its chance of appearing in the top search result of the customer.
-                      SEOs are of three main categories namely, On-page SEO, Off-page SEO and Technical SEO.
-                      These three combined will help the search engines to identify, crawl and understand
-                      the contents and rank it accordingly. A well structured SEO strategy will lead to
-                      organic traffic making it a top suggestion for the particular search intent.
+                    <h4> Suchmaschinenoptimierung (SEO) </h4>
+                    <p> SEO (Search Engine Optimization) ist der Prozess der Optimierung von Webseiten, um ihre
+                      Sichtbarkeit in Suchmaschinen zu erhöhen, was zu einer Top-Platzierung auf der
+                      Suchergebnisseite (SERP) führt. Wenn eine Website auf qualitativ hochwertigen Inhalten basiert,
+                      erkennen Suchmaschinen sie als zuverlässige Quelle an, was ihre Chancen erhöht, als Top-
+                      Ergebnis bei Kundenanfragen zu erscheinen.
 
                     </p>
 
-                    <p>Creation of premium content is a non-negotiable factor. Giraf is dedicated to generating and
-                      enhancing your business content coupled with strategic SEO services that will decode the ranking
-                      strategies thereby increasing traffic for the sales. Producing quality content, keywords,
-                      securing backlinks, emphasis on On-page SEO, Technical SEO, we ensure that these essential
-                      aspects are met with perfection.</p>
+                    <p> Es gibt drei Hauptkategorien von SEO: On-Page SEO, Off-Page SEO und Technisches SEO.
+                      Zusammen helfen diese Strategien den Suchmaschinen, Inhalte zu erkennen, zu crawlen, zu
+                      verstehen und entsprechend zu bewerten. Eine gut strukturierte SEO-Strategie führt zu
+                      organischem Traffic und macht Ihre Seite zur Top-Empfehlung für eine bestimmte
+                      Suchintention.</p>
+                    <p> Die Erstellung von Premium-Inhalten ist unverzichtbar. Giraf widmet sich der Erstellung und
+                      Optimierung von Inhalten, kombiniert mit strategischen SEO-Diensten, die Ranking-Strategien
+
+                      entschlüsseln und so den Traffic erhöhen. Hochwertige Inhalte, die richtigen Keywords,
+                      gesicherte Backlinks sowie On-Page und Technisches SEO werden perfekt umgesetzt.</p>
 
                   </div>
 
@@ -259,21 +263,19 @@
                 <div class="row">
 
                   <div class="col-xl-6 col-lg-12 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-                    <h4> Pay-Per-Click Advertising (PPC) </h4>
-                    <p> While organic traffic is the goal of optimizing a content,
-                      there are other methods by which your product or service can be brought
-                      into the attention of the target audience. PPC/ Pay Per Click Advertising
-                      is another effective means by which you can market your products at a reasonable budget.
-                      It is a form of digital marketing where companies can bid for keywords related to their
-                      services on various online platforms and are only required to pay only when a user clicks
-                      on the particular ad. If managed effectively it can increase the media visibility for your
-                      company and can gradually lead to commercial success. PPC acts as a window in converting
-                      users on social media platforms such as Youtube, Instagram into potential customers.
-                      PPC provides an opportunity for the company to advertise their service or products
-                      to the targeted/specific audience should they search keywords related to that firm.
+                    <h4> Pay-Per-Click-Werbung (PPC) </h4>
+                    <p> Während organischer Traffic das Ziel der Optimierung von Inhalten ist, gibt es weitere
+                      Methoden, um Ihre Produkte oder Dienstleistungen gezielt der Zielgruppe zu präsentieren. PPC
+                      (Pay-Per-Click-Werbung) ist eine effektive Möglichkeit, Ihre Produkte mit einem angemessenen
+                      Budget zu bewerben.
 
                     </p>
-                    <p> Girf ensures that your company gets the best PPC service which will boost your business.</p>
+                    <p> Dabei bieten Unternehmen auf Keywords, die sich auf ihre Dienstleistungen beziehen, und
+                      zahlen nur, wenn ein Nutzer auf die Anzeige klickt. Wenn PPC effektiv verwaltet wird, erhöht es
+                      die Sichtbarkeit und fördert den kommerziellen Erfolg. PPC fungiert als Brücke, um Nutzer auf
+                      Plattformen wie YouTube oder Instagram in potenzielle Kunden umzuwandeln.</p>
+                    <p> Giraf sorgt dafür, dass Ihr Unternehmen den besten PPC-Service erhält, um Ihr Wachstum zu
+                      fördern.</p>
 
                   </div>
 
@@ -296,17 +298,12 @@
 
                   <div class="col-xl-6 col-lg-12 col-md-12 services-list-box serv-detail-space serv-detail-flex">
                     <h4> Social Media Marketing (SMM) </h4>
-                    <p> SMM is an efficient medium to forge meaningful connections with the audience.
-                      It is a digital marketing strategy that effectively utilizes social media platforms
-                      to ensure marketing success.
-                      By posting your contents consistently, interacting with the users and maintaining an active profile
-                      will familiarize the audience and inturn will build trust. In a world driven by visual media,
-                      SSM will help in building a concrete visual identity thereby enhancing the presence of the company.
-
-                    </p>
-                    <p>Our team creates customized contents and strategies for platforms like Linkedin,
-                      Facebook which would boost engagement and awareness and can mould about 4.9 billion
-                      active social media users to potential customers.
+                    <p> Social Media Marketing ist ein effizienter Weg, um bedeutungsvolle Verbindungen zum
+                      Publikum aufzubauen. Durch konsequente Inhalte, Nutzerinteraktion und aktive Profile schaffen
+                      Sie Vertrauen und eine starke visuelle Identität. </p>
+                    <p> Unsere Experten erstellen maßgeschneiderte Inhalte und Strategien für Plattformen wie LinkedIn
+                      und Facebook, um Engagement und Markenbewusstsein zu steigern und die rund 4,9 Milliarden
+                      aktiven Nutzer in potenzielle Kunden zu verwandeln.
 
                     </p>
 
@@ -322,17 +319,16 @@
 
                   <div class="col-xl-6 col-lg-12 col-md-12 services-list-box serv-detail-space serv-detail-flex">
                     <h4> Content Marketing </h4>
-                    <p> Quality content is the core that anchors your business venture as the top tier in this competitive industry.
-                      Content marketing is a strategic approach that concentrates on producing and distributing
-                      class business contents consistently to build and retain the interest of the target audience
-                      and leading to enhanced customer action. With a structured plan to generate and deploy
-                      contents in the form of blog posts, videos, emails and the like will amplify the brand awareness,
-                      thus increasing trust and creating loyal customers.
+                    <p> Qualitativ hochwertiger Inhalt ist das Fundament eines erfolgreichen Unternehmens. Content
+                      Marketing konzentriert sich darauf, konsistent erstklassige Inhalte zu produzieren und zu
+                      verbreiten, um das Interesse der Zielgruppe zu wecken und zu erhalten.
 
 
                     </p>
-                    <p>Giraf produces high quality content marketing materials from blog posts to videos
-                      which will resonate with the search intent of the targeted audience.</p>
+                    <p> Ein strukturierter Plan, Inhalte — wie Blogposts, Videos und E-Mails — zu erstellen und zu
+                      verbreiten, stärkt das Markenbewusstsein und schafft loyale Kunden. Giraf entwickelt
+                      hochwertige Content-Marketing-Materialien, die genau auf die Suchintention Ihrer Zielgruppe
+                      abgestimmt sind.</p>
                   </div>
 
                   <div class="col-xl-6 col-lg-8 col-md-12 services-list-box serv-detail-space">
@@ -353,19 +349,15 @@
                   </div>
 
                   <div class="col-xl-6 col-lg-12 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-                    <h4> Email Marketing </h4>
-                    <p> Email marketing employs the email services to promote a business product or services to
-                      the users which adds a more personal touch to the communication. Consistent communication
-                      with the customers in the email list, by providing information regarding the product,
-                      compelling offers and discounts, the trust between the users and the company strengthens,
-                      which will increase customer engagement and drive sales.
+                    <h4> E-Mail-Marketing </h4>
+                    <p> E-Mail-Marketing nutzt E-Mail-Dienste, um Produkte oder Dienstleistungen zu bewerben und
+                      eine persönliche Verbindung zu den Nutzern aufzubauen. Regelmäßige Kommunikation mit
+                      Ihrer Mailingliste über Produkte, Angebote und Rabatte stärkt das Vertrauen und steigert die
+                      Kundenbindung und den Umsatz.
 
                     </p>
-                    <p> With personalized email marketing campaigns cultivate everlasting relationships with your customers. </p>
-                    <p> We are not limited to the digital marketing services mentioned. Giraf has more than meets to the eye.
-                      Our client’s success is our top priority and we are at your call to provide you with the best services.
-
-                    </p>
+                    <p> Durch personalisierte E-Mail-Kampagnen helfen wir Ihnen, dauerhafte Beziehungen zu Ihren
+                      Kunden aufzubauen. </p>
 
                   </div>
 
@@ -407,11 +399,12 @@
                   </div>
 
                   <div class="col-xl-6 col-lg-12 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-                    <h4> Your Success, Our Priority </h4>
-                    <p> We are not a mere digital marketing agency, but a holistic brand building machine and we
-                      aim at a long term - partnership with our clients whom we consider as partners for a digital
-                      success. Our valor lies in our work with numerous heavy hitters throughout the Middle east,
-                      Europe, South Asia and Oceania.
+                    <h4> Unser Motto: Ihr Erfolg ist unsere Priorität </h4>
+                    <p> Wir verstehen uns nicht nur als Digital-Marketing-Agentur, sondern als umfassende
+                      Markenaufbau-Maschine. Unser Ziel ist eine langfristige Partnerschaft mit unseren Kunden —
+                      unsere Partner auf dem Weg zum digitalen Erfolg. Wir haben erfolgreich mit zahlreichen
+                      renommierten Unternehmen im Nahen Osten, Europa, Südasien und Ozeanien
+                      zusammengearbeitet.
 
 
                     </p>
@@ -428,9 +421,9 @@
                 <div class="row">
 
                   <div class="col-xl-6 col-lg-12 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-                    <h4> Let’s Get Started </h4>
-                    <p> Ready to elevate your business to new heights? Partner with Giraf for unmatched digital
-                      marketing services that deliver results.
+                    <h4> Bereit durchzustarten? </h4>
+                    <p> Bereit, Ihr Unternehmen auf ein neues Level zu heben? Partnern Sie mit Giraf für Digital-
+                      Marketing-Dienstleistungen, die wirklich Ergebnisse liefern.
 
 
                     </p>
@@ -462,25 +455,14 @@
                 <div class="accordion">
                   <input type="radio" name="radacc" class="accordian-chk" checked />
                   <h4 class="accordian-header active">
-                    How can digital marketing benefit my business?
+                    Wie profitiert mein Unternehmen von Digital Marketing?
                     <span class="acc-icon"></span>
                   </h4>
                   <div class="accordian-content" tabindex="2">
 
-                    <p>
-                      Digital marketing improves brand awareness and customer
-                      engagement. <strong class="itlc"> Digital marketing</strong> is a cost-effective way to enhance
-                      online visibility.It enables you to reach potential customers through a
-                      large number of channels leading to increased sales and positively
-                      impacting your business. <strong class="itlc"> Search Engine Optimisation (SEO) </strong> and
-                      <strong class="itlc"> Search Engine Marketing(SEM) </strong> are essential <strong class="itlc"> digital marketing
-                        strategies </strong> to make your brand more visible. <strong class="itlc">The digital marketing
-                        agency </strong> uses these robust marketing strategies to promote growth by
-                      delivering the kind of content that strike a chord with the customers
-                      and it will increase the traffic to a website.Efficient<strong class="itlc"> digital marketing
-                        services </strong> can help scale your business to new heights.
-
-                    </p>
+                    <p> Digitales Marketing steigert die Markenbekanntheit und Kundenbindung. Es ist kosteneffektiv,
+                      erhöht die Sichtbarkeit und erreicht potenzielle Kunden über verschiedene Kanäle. SEO und
+                      SEM sind entscheidend, um die Online-Sichtbarkeit zu stärken. </p>
 
 
                   </div>
@@ -489,19 +471,14 @@
                 <div class="accordion">
                   <input type="radio" name="radacc" class="accordian-chk" />
                   <h4 class="accordian-header">
-                    What is the scope of digital marketing?
+                    Wie sieht die Zukunft des Digital Marketing aus?
                     <span class="acc-icon"></span>
                   </h4>
                   <div class="accordian-content">
-                    <p> In the next couple of years,<strong class="itlc"> digital marketing </strong> is going to be bigger
-                      and better.As with the rise in the use of digital platforms in the world,
-                      the opportunities for the businesses to connect with people will also
-                      grow.The data and smart technologies will assist marketers to make
-                      better decisions in order to deliver more personalised experience.The
-                      image based searches and engaging video content will continue to
-                      build the digital marketing outlook.The future of digital marketing is
-                      assured for an exceptional growth and transformation, offering many
-                      more opportunities for both businesses and professionals.
+                    <p> In den kommenden Jahren wird digitales Marketing weiter wachsen. Mit der zunehmenden
+                      Nutzung digitaler Plattformen steigen auch die Möglichkeiten für Unternehmen. Daten und
+                      intelligente Technologien helfen dabei, personalisierte Erlebnisse zu schaffen. Bildbasierte
+                      Suchen und Video-Content werden das Marketing weiter verändern.
 
                     </p>
                   </div>
@@ -510,22 +487,15 @@
                 <div class="accordion">
                   <input type="radio" name="radacc" class="accordian-chk" />
                   <h4 class="accordian-header">
-                    How long does it take to see results from digital marketing
-                    efforts?
+                    Wie lange dauert es, Ergebnisse aus Digital Marketing zu sehen?
                     <span class="acc-icon"></span>
                   </h4>
                   <div class="accordian-content">
 
-                    <p> It typically takes around 6 to 12 months to achieve a successful base
-                      across core digital marketing strategies like <strong class="itlc"> Search Engine
-                        Optimisation(SEO), Social Media Marketing(SMM),</strong> paid
-                      advertising, email marketing and content creation.Creating social
-                      media ads will speed up your page growth but it takes around 6-9
-                      months to start displaying actual results.It takes upto 6 months to
-                      create your mailing list and then start to send out regular campaigns to
-                      the followers you have received.SEO is the most long-term marketing
-                      strategy as SEO requires continuous work so as to ensure your
-                      website is as good as it can possibly be. </p>
+                    <p> Normalerweise dauert es etwa 6 bis 12 Monate, um eine solide Basis in Kernstrategien wie SEO,
+                      SMM, bezahlter Werbung und Content Creation zu schaffen. Erste Ergebnisse bei Social-Media-
+                      Werbung zeigen sich in 6 bis 9 Monaten. Der Aufbau einer Mailingliste dauert ebenfalls bis zu 6
+                      Monate.</p>
 
                   </div>
                 </div>
@@ -542,20 +512,14 @@
                 <div class="accordion">
                   <input type="radio" name="radacc" class="accordian-chk" />
                   <h4 class="accordian-header">
-                    How often should I update my digital marketing strategy?
+                    Wie oft sollte ich meine Digital-Marketing-Strategie überarbeiten?
                     <span class="acc-icon"></span>
                   </h4>
                   <div class="accordian-content" tabindex="2">
 
-                    <p> Updating your <strong class="itlc"> digital marketing strategy </strong> ensures to keep it relevant
-                      and aligned with business goals.It lets you modify according to the
-                      changing consumer behaviour, to augment your marketing budget and
-                      to maintain a competitive edge.Focus on conducting quarterly reviews,
-                      along with monthly check-ins to observe performance.It is advised to
-                      update your strategy when there is new industry trends, or there is a
-                      shift in your objective audience,or technology developments appear.
-
-                    </p>
+                    <p> Eine Überprüfung der Strategie wird vierteljährlich empfohlen, mit monatlichen Check-ins.
+                      Aktualisieren Sie Ihre Strategie bei neuen Branchentrends, Zielgruppenverschiebungen oder
+                      technologischen Neuerungen. </p>
 
 
                   </div>
@@ -564,21 +528,13 @@
                 <div class="accordion">
                   <input type="radio" name="radacc" class="accordian-chk" />
                   <h4 class="accordian-header">
-                    How do I create a digital marketing plan for my business?
+                    Wie erstelle ich einen Digital-Marketing-Plan?
                     <span class="acc-icon"></span>
                   </h4>
                   <div class="accordian-content">
-                    <p>
-                      A digital marketing plan is a comprehensive strategy defining how
-                      your business will use digital platforms to promote your brand.To help
-                      craft your digital plan the first step inorder to succeed is to recognise
-                      your goals and objectives. The next step for effective digital planning
-                      is to identify your target audience.Once you understand whom to
-                      target, then you define your value proposition.Set your relevant
-                      metrics to observe performance and to track the progress of your
-                      digital marketing strategies.One can also enroll in online marketing
-                      courses on <strong class="itlc"> digital marketing strategy </strong> to learn how to create a digital
-                      marketing plan.
+                    <p> Identifizieren Sie Ihre Zielgruppe, definieren Sie Ihr Wertversprechen, setzen Sie relevante
+                      Metriken zur Erfolgsmessung und verfolgen Sie die Fortschritte. Online-Marketing-Kurse
+                      können zusätzlich helfen, einen effektiven Plan zu erstellen.
 
                     </p>
                   </div>
@@ -788,14 +744,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Phone">
+                  <input type="text" class="form-control" placeholder="Telefon">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="email" class="form-control" placeholder="Email">
+                  <input type="email" class="form-control" placeholder="E-Mail">
                 </div>
               </div>
               <!--// col-md-4 -->
@@ -805,14 +761,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Company Name">
+                  <input type="text" class="form-control" placeholder="Unternehmensname">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-8 -->
               <div class="col-xl-8 col-lg-8 col-md-12">
                 <div class="form-group">
-                  <textarea class="form-control" rows="4" cols="120" placeholder="Message"></textarea>
+                  <textarea class="form-control" rows="4" cols="120" placeholder="Nachricht"></textarea>
 
                 </div>
               </div>
@@ -823,7 +779,7 @@
 
             <div class="row">
               <div class="col-md-3 mx-auto get-in-tuch">
-                <button type="button" class="btn btn-default"> Get in Touch <i class="fas fa-angle-right"></i> </button>
+                <button type="button" class="btn btn-default"> Kontaktieren Sie uns <i class="fas fa-angle-right"></i> </button>
               </div>
             </div>
 
