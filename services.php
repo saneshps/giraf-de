@@ -88,7 +88,7 @@
   <section>
     <div class="banner-area">
       <img src="./img/services/banner.jpg" alt="banner">
-      <h1> Our Services </h1>
+      <h1> Unsere Services</h1>
     </div>
   </section>
   <!-- =====================
@@ -105,7 +105,7 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 services-text-first">
-            <h6> Services</h6>
+            <h6> Services </h6>
             <h4> Was uns auszeichnet </h4>
           </div>
           <!--// col-md-4 -->
@@ -230,8 +230,6 @@
                 <a href="animation.php">
                   <h3> 06 </h3>
                   <h2> Animation </h2>
-
-                  <h5> YOU DREAM IT AND WE DO IT </h5>
                   <p> Von der Erstellung bewegter Bilder aus handgezeichneten Illustrationen bis hin zur digitalen
                     Animation per Mausklick — Animation hat einen langen Weg zurückgelegt. Moderne
                     Technologien ermöglichen...

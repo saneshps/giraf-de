@@ -108,18 +108,17 @@
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
             <h6> Designing </h6>
-            <h4> Giving Your Business
-              Some Great Ideas </h4>
+            <h4> Großartige Ideen für Ihr Unternehmen </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> Designing is the integral part of building a business foundation as it determines
-              the entire outlook of the company’s venture. With the best designing services at
-              your call you can develop your business and stand out from the track of the known.
-            </p>
+            <p> Design ist ein wesentlicher Bestandteil beim Aufbau einer Unternehmensbasis, da es den
+              gesamten Auftritt eines Unternehmens bestimmt. </p>
+            <p> Mit den besten Designservices an Ihrer Seite können Sie Ihr Unternehmen entwickeln und sich
+              von der Masse abheben. </p>
           </div>
           <!--// col-md-8 -->
 
@@ -145,7 +144,7 @@
   <section class="services-list-area serv-detail">
     <div class="container">
 
-      <h2> Checkout Our Designing Services </h2>
+      <h2> Unsere Design-Services: </h2>
       <div class="row">
 
 
@@ -155,20 +154,20 @@
           <div class="row">
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
-              <h4> UI / UX </h4>
-              <p> UX design/ User Experience design focuses on the user experience and UI/User Interface design focuses
-                on the design or aesthetics of the digital project. Together UX/UI involves the process of planning
-                and creating designs that provides the user with a smooth experience with the website.
-
-              </p>
+              <h4> UI/UX Design </h4>
+              <p> UX-Design (User Experience) konzentriert sich auf die Benutzererfahrung, während UI-Design
+                (User Interface) sich auf das ästhetische Erscheinungsbild eines digitalen Projekts bezieht.
+                Gemeinsam umfasst UI/UX das Planen und Erstellen von Designs, die dem Nutzer ein
+                reibungsloses Erlebnis bieten. </p>
+              <h5 class="mb-2 mt-2"> Unsere Besonderheiten: </h5>
 
               <ul class="services-list-ul">
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> AI Integration </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Personalization </a> </li>
-                <li> <a><i class="fas fa-long-arrow-alt-right"></i> Enhanced 3D Elements </a> </li>
-                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Mobile - Enhanced Designing </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Cross - Platform Designing </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Performative Design </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> KI-Integration </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Personalisierung </a> </li>
+                <li> <a><i class="fas fa-long-arrow-alt-right"></i> Erweiterte 3D-Elemente </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Mobile-optimiertes Design </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Plattformübergreifendes Design </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Performantes Design </a> </li>
               </ul>
             </div>
 
@@ -193,23 +192,19 @@
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
-              <h4> Web Design </h4>
-              <p> A good web design is important as it will create a lasting impression on the user.
-                Strategically creating a website taking into account the various factors which includes,
-                planning, organizing the information and the visual touch which emphasizes on how the
-                website can be made presentable determines the quality of the same.
-
-              </p>
-              <p> Giraf provides you with top-tier web designs that will distinguish you from your competitors </p>
-
+              <h4> Webdesign</h4>
+              <p> Ein gutes Webdesign hinterlässt einen bleibenden Eindruck beim Nutzer. Strategie, Planung,
+                Strukturierung von Informationen und visuelle Gestaltung bestimmen die Qualität einer Website. </p>
+              <p> Giraf bietet Ihnen erstklassige Webdesigns, die Sie von Ihren Mitbewerbern abheben lassen. </p>
+              <h5 class="mb-2 mt-2"> Besondere Leistungen im Webdesign: </h5>
               <ul class="services-list-ul">
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> CMS and seamless Integration </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> SEO - First Design </a> </li>
-                <li> <a><i class="fas fa-long-arrow-alt-right"></i> API Integration for ease of use </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Landing Page Design </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Performance Optimized Designs </a> </li>
-                <li> <a><i class="fas fa-long-arrow-alt-right"></i> Cross Browser Compatible Design </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Immersive Interactions </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> CMS und nahtlose Integration </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> SEO-optimiertes Design </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> API-Integration zur Benutzerfreundlichkeit </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Landingpage-Design </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Performance-optimierte Designs </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Browserkompatible Designs </a> </li>
+                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Immersive Interaktionen </a> </li>
               </ul>
             </div>
 
@@ -227,21 +222,20 @@
           <div class="row">
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
-              <h4> Graphic Designings </h4>
-              <p> Graphic designing aids in creating a lasting impact upon the users by crafting top-notch graphics
-                and images which effectively communicates the brand perspective and brand identity providing
-                the proper information regarding the digital product.
+              <h4> Grafikdesign </h4>
+              <p> Grafikdesign schafft einen bleibenden Eindruck durch hochwertige Grafiken und Bilder, die die
+                Markenidentität effektiv kommunizieren.
 
               </p>
-              <p>Our talented graphic designers are dedicated to offer you with the best service.</p>
-
+              <p> Unsere talentierten Grafikdesigner sind bestrebt, Ihnen den besten Service zu bieten. </p>
+              <h5 class="mb-2 mt-2"> Grafikdesign-Services: </h5>
               <ul class="services-list-ul">
-                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Logo Designs </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Banner Ads </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Merch Designs to POP n BOP!! </a> </li>
-                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Brochures and Flyers </a> </li>
-                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Infographics </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Catalogue Designs </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Logo-Designs </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Bannerwerbung </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Merchandise-Designs </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Broschüren und Flyer </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Infografiken </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Katalogdesigns </a> </li>
               </ul>
             </div>
 
@@ -265,23 +259,20 @@
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space">
-              <h4> Brand Identity </h4>
-              <p> Brand identity is the unique characteristic that encompasses the concrete and abstract components of a company’s product. </p>
-              <p> Giraf aims to mold your brand in such a way that it stands apart. </p>
+              <h4> Markenidentität </h4>
+              <p> Die Markenidentität umfasst die konkreten und abstrakten Elemente eines
+                Unternehmensproduktes. </p>
+              <p> Giraf formt Ihre Marke so, dass sie einzigartig und herausragend ist. </p>
+              <h5 class="mb-2 mt-2"> Services rund um Markenidentität:</h5>
               <ul class="services-list-ul">
-                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Logo Design </a> </li>
-                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Guide for Branding </a> </li>
-                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Storytelling Based Branding </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Positioning </a> </li>
-                <li> <a> <i class="fas fa-long-arrow-alt-right"></i> Book Branding </a> </li>
-                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Stationary Designs for Various Mediums </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Logo-Design </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Markenrichtlinien </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Storytelling-basiertes Branding </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Positionierung </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Buchbranding </a> </li>
+                <li><a> <i class="fas fa-long-arrow-alt-right"></i> Design von Büroartikeln für verschiedene Medien </a> </li>
               </ul>
             </div>
-
-
-
-
-
 
           </div>
         </div>
@@ -298,49 +289,38 @@
        =================================== -->
   <section class="how-we-do-the-magic-area">
     <div class="container">
-      <h2> How We Do the Magic </h2>
+      <h2> Wie schaffen wir Magie? </h2>
       <div class="row box-commn">
 
 
         <div class="col-xl-3 col-lg-6 col-md-6 magic-box">
           <div class="how-we-do-the-magic-box">
             <h5> <span> 1 </span> Definition </h5>
-            <p> Mapping the path and brainstorming the ideas to construct and discover.
-              Wanna know the secret? This is where we put out our
-              actions to conquer plateaus.
-
-            </p>
+            <p> Wir kartieren den Weg und entwickeln durch Brainstorming Ideen, um neue Horizonte zu
+              erobern. </p>
           </div>
         </div>
 
         <div class="col-xl-3 col-lg-6 col-md-6 magic-box">
           <div class="how-we-do-the-magic-box">
-            <h5> <span> 2 </span> Relentless Design Powerhouse </h5>
-            <p> With the dawn of research and ideas, we strategize and experiment with
-              projects to produce the most foolproof ideas that are efficient in every manner.
-
-
-            </p>
+            <h5> <span> 2 </span> Unermüdliche Kreativität</h5>
+            <p> Durch Forschung und Strategie entstehen unsere effizientesten Konzepte. </p>
           </div>
         </div>
 
         <div class="col-xl-3 col-lg-6 col-md-6 magic-box">
           <div class="how-we-do-the-magic-box">
-            <h5> <span> 3 </span> Refinery </h5>
-            <p> Harbouring ideas and products to the next form.
-              A comprehensive process of trials to find out the minuscule errors before delivering.
-
-            </p>
+            <h5> <span> 3 </span> Verfeinerung </h5>
+            <p> Ideen und Produkte werden in umfassenden Testprozessen auf kleinste Fehler überprüft und
+              optimiert. </p>
           </div>
         </div>
 
         <div class="col-xl-3 col-lg-6 col-md-6 magic-box">
           <div class="how-we-do-the-magic-box">
-            <h5> <span> 4 </span> Who is There? Delivery Guy </h5>
-            <p> Why do we design? To deliver, not merely delivering the final products to the customers,
-              but making sure the end product is ready for real time feedback.
-
-            </p>
+            <h5> <span> 4 </span> Lieferung </h5>
+            <p> Wir liefern nicht nur ein fertiges Produkt, sondern stellen sicher, dass es bereit ist, sich im realen
+              Einsatz zu beweisen. </p>
           </div>
         </div>
 
@@ -360,7 +340,7 @@
     <div class="main-box">
       <div class="strip-text">
         <h4> Designing </h4>
-        <h3> Giving Your Business Some Great Ideas </h3>
+        <h3> Großartige Ideen für Ihr Unternehmen </h3>
       </div>
     </div>
   </section>
@@ -376,7 +356,7 @@
       <div class="form-bg box-commn">
         <div class="form-container">
           <form class="form-horizontal">
-            <h3 class="title"> Fill-in and <span> Reach Out </span> </h3>
+            <h3 class="title"> Kontaktformular </h3>
 
 
             <div class="row">
@@ -391,14 +371,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Phone">
+                  <input type="text" class="form-control" placeholder="Telefon">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="email" class="form-control" placeholder="Email">
+                  <input type="email" class="form-control" placeholder="E-Mail">
                 </div>
               </div>
               <!--// col-md-4 -->
@@ -408,14 +388,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Company Name">
+                  <input type="text" class="form-control" placeholder="Unternehmensname">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-8 -->
               <div class="col-xl-8 col-lg-8 col-md-12">
                 <div class="form-group">
-                  <textarea class="form-control" rows="4" cols="120" placeholder="Message"></textarea>
+                  <textarea class="form-control" rows="4" cols="120" placeholder="Nachricht"></textarea>
 
                 </div>
               </div>
@@ -426,7 +406,7 @@
 
             <div class="row">
               <div class="col-md-3 mx-auto get-in-tuch">
-                <button type="button" class="btn btn-default"> Get in Touch <i class="fas fa-angle-right"></i> </button>
+                <button type="button" class="btn btn-default"> Kontaktieren Sie uns: <i class="fas fa-angle-right"></i> </button>
               </div>
             </div>
 

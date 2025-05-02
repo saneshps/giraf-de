@@ -111,16 +111,16 @@
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
             <h6> Animation </h6>
-            <h4> YOU DREAM IT AND WE DO IT </h4>
+            <h4> DU TRÄUMST ES, WIR VERWIRKLICHEN ES </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> Giraf is a full-service provider of video animation, offering an outsourced framework
-              that fits any kind of budget while assisting businesses in differentiating their content
-              and advancing their social media and marketing strategies.
+            <p> Giraf ist ein Full-Service-Anbieter für Videoanimation und bietet einen ausgelagerten Rahmen,
+              der sich an jedes Budget anpasst und Unternehmen dabei unterstützt, ihre Inhalte zu
+              differenzieren und ihre Social-Media- und Marketingstrategien zu verbessern.
             </p>
 
 
@@ -161,18 +161,18 @@
 
             <!-- col-md-12 -->
             <div class="col-md-12 service-detailes-brief-scnd flex-column align-items-start">
-              <p> From creating motion pictures from hand drawn images to assembling them
-                with just one click, humans have come a long way in the course of animation.
-                The novel technologies employed in generating captivating and engaging animated
-                video contents have helped companies to promote their business ideals in an innovative way.
+              <p> Von der Erstellung bewegter Bilder aus handgezeichneten Illustrationen bis hin zur digitalen
+                Animation per Mausklick — die Animationstechnologie hat sich rasant entwickelt. Neuartige
+                Technologien zur Erstellung fesselnder und ansprechender animierter Inhalte helfen
+                Unternehmen dabei, ihre Geschäftsideale auf innovative Weise zu vermitteln.
               </p>
-              <h5 class="witness"> Witness our animation services </h5>
+              <h5 class="witness"> Entdecken Sie unsere Animationsdienstleistungen: </h5>
               <ul>
-                <li> 3D animation services </li>
-                <li> Model animation </li>
-                <li> Drawn animation </li>
-                <li> Stop motion </li>
-                <li> Cutout animation </li>
+                <li> 3D-Animationsdienste </li>
+                <li> Modellanimation </li>
+                <li> Zeichentrickanimation </li>
+                <li> Stop-Motion-Animation </li>
+                <li> Scherenschnittanimation </li>
               </ul>
 
             </div>
@@ -182,17 +182,16 @@
 
           <div class="col-xl-5 col-lg-5 col-md-12">
             <div class="col-md-12 service-detailes-brief-scnd flex-column align-items-start">
-              <h4 class="magic"> How do we create this magic? </h4>
-              <p> Bring your imagination into life with Giraf’s innovation! We work to create animated
-                content that best suits your brand. Producing contents from motion graphics to 3D animation,
-                we are at your disposal to create your ideal video with novel animation techniques and
-                tools such as Adobe After Effects, Flash, Photoshop and Adobe animate in combination
-                with methods like 3D visualization, Model animation, GCI, Drawn animation,
-                Stop- motion animation and Cutout animation.
+              <h4 class="magic"> Wie erschaffen wir diese Magie? </h4>
+              <p> Bringen Sie Ihre Vorstellungskraft mit der Innovation von Giraf zum Leben! Wir erstellen
+                animierte Inhalte, die perfekt zu Ihrer Marke passen. Von Motion Graphics bis 3D-Animation —
+                wir setzen neueste Animationstechniken und Tools wie Adobe After Effects, Flash, Photoshop
+                und Adobe Animate ein, kombiniert mit Methoden wie 3D-Visualisierung, Modellanimation,
+                CGI, Zeichentrickanimation, Stop-Motion-Animation und Scherenschnittanimation.
 
               </p>
-              <p> Giraf promises an excellent animated video that meets your
-                expectation of your video content that best fits your budget. </p>
+              <p> Giraf garantiert exzellente Animationen, die Ihren Erwartungen entsprechen und Ihr Budget
+                berücksichtigen. </p>
 
             </div>
           </div>
@@ -221,24 +220,20 @@
             <div class="row box-commn">
 
               <div class="col-xl-12 phase-m-app-title">
-                <h4> Animation services that extend to diverse fields
+                <h4> Animation für verschiedene Branchen
                 </h4>
-                <p> The scope of animation extends to various fields, from entertainment to healthcare,
-                  the prospects of animation are utilized to inform and educate the users while keeping them engaged.
+                <p> Animation verbindet Storytelling mit eindrucksvollen visuellen Effekten und übersetzt komplexe
+                  Informationen in verständliche und unterhaltsame Inhalte.
 
                 </p>
               </div>
 
               <div class="col-xl-6 col-lg-12 col-md-12">
                 <div class="box-commn-anm">
-                  <h5 class="text-left"> Entertainment</h5>
-                  <p class="text-left"> Animation is the core of the entertainment industry.
-                    A blend of versatile and creative content, animation enriches the entertainment sector.
-                    Animated films, short films, webseries, music videos, the scope of animation is vast.
-                    Through various animation techniques creating real life-like characters, lively
-                    environments with dynamic colour combinations and hyperbolic representation of
-                    gestures enhancing the dramatic effect of the sequence, animated shows and
-                    films provide an impressive experience of virtual reality.
+                  <h5 class="text-left"> Unterhaltung: </h5>
+                  <p class="text-left"> Animation ist das Herz der Unterhaltungsbranche — ob Filme,
+                    Kurzfilme, Webserien oder Musikvideos. Lebendige Charaktere und dynamische
+                    Umgebungen schaffen beeindruckende virtuelle Erlebnisse.
 
 
                   </p>
@@ -247,10 +242,9 @@
 
               <div class="col-xl-6 col-lg-12 col-md-12">
                 <div class="box-commn-anm">
-                  <h5 class="text-left"> Health </h5>
-                  <p class="text-left"> Animated videos are beneficial for the health sector as it can provide a concise,
-                    effective, informative breakdown of complex concepts to the patients, demonstrating procedures,
-                    aiding in pharmaceutical marketing and more.
+                  <h5 class="text-left"> Gesundheitswesen: </h5>
+                  <p class="text-left"> Animierte Videos vereinfachen komplexe Konzepte, demonstrieren
+                    Verfahren und unterstützen das pharmazeutische Marketing effektiv.
 
 
                   </p>
@@ -259,14 +253,9 @@
 
               <div class="col-xl-6 col-lg-12 col-md-12">
                 <div class="box-commn-anm">
-                  <h5 class="text-left"> Gaming </h5>
-                  <p class="text-left"> Animation breathes life into the gaming sector.
-                    Realistic animation creating life-like characters with the apt portrayal of emotions,
-                    intentions through lively expressions; dynamic environment providing intricate details
-                    of the surroundings; vigorous combat sequences intensifying player action and well
-                    developed sequences provides premium gaming experience to the users.
-
-
+                  <h5 class="text-left"> Gaming: </h5>
+                  <p class="text-left"> Realistische Animationen erwecken Spielfiguren und Umgebungen zum Leben
+                    und bieten Nutzern ein unvergleichliches Spielerlebnis.
                   </p>
                 </div>
               </div>
@@ -275,23 +264,12 @@
 
               <div class="col-xl-6 col-lg-12 col-md-12">
                 <div class="box-commn-anm">
-                  <h5 class="text-left"> Education </h5>
-                  <p class="text-left"> Animated video lessons are effective in the education sector.
-                    Creating visually engaging lesson plans will help students to grasp the concepts
-                    swiftly all while maintaining their interest in the topic.
+                  <h5 class="text-left"> Bildung: </h5>
+                  <p class="text-left"> Animierte Lerninhalte helfen, komplexe Konzepte anschaulich zu erklären und
+                    das Interesse der Schüler aufrechtzuerhalten.
 
                   </p>
-                  <p> Combining the art of storytelling with impressive visual effects and breaking down
-                    complex data into short, comprehensible snippets of information, animation serves
-                    as an efficient way to communicate a company’s business ideals to the targeted
-                    audience and set apart the enterprise as a successful venture in the competitive edge.
 
-                  </p>
-                  <p>Creative journeys are challenging, but just like the J- man said “Why so serious?”.
-                    With productive craziness even tough paths can be navigated with ease.
-                    With a passionate team like us by your side, success is assured.
-
-                  </p>
 
                 </div>
               </div>
@@ -299,58 +277,44 @@
             </div>
           </div>
           <!-- Animation services -->
+          <div class="row kreative">
+            <div class="col-xl-6">
+              <div class="pdng brdr">
+                <h4> Kreative Reisen sind herausfordernd — aber wie der Joker sagte: "Warum so ernst?&quot; </h4>
 
-          <div class="col-xl-6">
-            <div class="pdng brdr">
-              <h4> Video Animation Services </h4>
+                <p> Mit kreativer Verrücktheit und einem leidenschaftlichen Team wie Giraf an Ihrer Seite ist Erfolg
+                  garantiert. </p>
 
-              <p> We work to create animated video content that is consistently in line
-                with your brand using a bespoke approach. Some of the best businesses
-                in the world work with our team, producing anything from motion graphics
-                to 3D animation. Our services for producing animated videos include explainer,
-                app, demo, live-action, training, instructional, explanatory, corporate animations
-                and software walkthrough films in addition to animation videos.
+                <h5 class="mt-2 mb-2"> Unsere Animationsdienstleistungen umfassen: </h5>
+                <ul>
+                  <li> Erklärvideos </li>
+                  <li> App-Demos </li>
+                  <li> Live-Action-Animationen </li>
+                  <li> Schulungs- und Lehrvideos </li>
+                  <li> Unternehmensanimationen </li>
+                  <li> Software-Walkthroughs </li>
+                </ul>
 
-              </p>
-              <p> Equipped to use the newest animation techniques and tools,
-                whether you need to educate customers or staff, explain complicated concepts about products or services,
-                or build sumptuous animated characters from the ground up for your film directing debut.
-                Using complex technologies like Adobe After Effects, Flash, Photoshop, and Adobe Animate
-                in conjunction with methods like 3D visualization, model animation, GCI, drawn animation,
-                stop-motion animation, and cutout animation, we produce high-quality animation.
-
-              </p>
-              <p> A full-service provider of video animation, Giraf offers an outsourced framework
-                that fits any kind of budget and guarantees that your firm will receive a beautiful
-                animated video that meets your needs for video content.
-
-              </p>
+              </div>
             </div>
-          </div>
-          <div class="col-xl-6">
-            <div class="animation-box-secnd pdng brdr">
-              <h4> Manage your videos </h4>
-              <p> As the best animation production company in India, we think that teamwork is extremely powerful.
-                Since 2021, we have produced <a href="https://www.giraf.in/photography-and-video-production.php" target="_blank">
-                  videos,</a> and we will oversee the entire process for you.
-                We use phased sign-offs, so up until the final video, you are in charge of every process.
+            <div class="col-xl-6">
+              <div class="animation-box-secnd pdng brdr">
+                <h4> Video-Management </h4>
+                <p> Als führende Animationsproduktionsfirma in Indien steuern wir den gesamten Prozess mit
+                  Phasenabnahmen, sodass Sie jederzeit Kontrolle über Ihr Projekt behalten. </p>
 
-              </p>
-              <h4> Extend Your Reach </h4>
-              <p> A great deal of design collateral that can be utilized for your complete brand can be produced using animation.
-                Our animation company will make sure that your video marketing's finished animation reaches and impresses
-                both your target audience and potential new clients.
+                <h4> Erweitern Sie Ihre Reichweite </h4>
+                <p> Animationsinhalte können Ihre Marke nachhaltig stärken und neue Zielgruppen erreichen. </p>
 
-              </p>
-              <h4> Let us set off on an adventure! </h4>
-              <p> The <a href="https://www.giraf.in" target="_blank"> Giraf </a> team is here to ignite your creativity and realize your aspirations.
-                Let's now discuss your project! Reach out to us, and we'll handle the rest!
+                <h4> Lassen Sie uns gemeinsam durchstarten! </h4>
+                <p> Das Giraf-Team möchte Ihre Kreativität entfachen und Ihre Visionen Wirklichkeit werden
+                  lassen. Kontaktieren Sie uns — wir kümmern uns um den Rest!
 
-              </p>
+                </p>
+              </div>
             </div>
+
           </div>
-
-
 
         </div>
 
@@ -373,7 +337,7 @@
     <div class="main-box">
       <div class="strip-text">
         <h4> Animation </h4>
-        <h3> Giving Your Business Some Great Ideas </h3>
+        <h3> Großartige Ideen für Ihr Unternehmen </h3>
       </div>
     </div>
   </section>
@@ -389,7 +353,7 @@
       <div class="form-bg box-commn">
         <div class="form-container">
           <form class="form-horizontal">
-            <h3 class="title"> Fill-in and <span> Reach Out </span> </h3>
+            <h3 class="title"> Kontaktformular </h3>
 
 
             <div class="row">
@@ -404,14 +368,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Phone">
+                  <input type="text" class="form-control" placeholder="Telefon">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="email" class="form-control" placeholder="Email">
+                  <input type="email" class="form-control" placeholder="E-Mail">
                 </div>
               </div>
               <!--// col-md-4 -->
@@ -421,14 +385,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Company Name">
+                  <input type="text" class="form-control" placeholder="Unternehmensname">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-8 -->
               <div class="col-xl-8 col-lg-8 col-md-12">
                 <div class="form-group">
-                  <textarea class="form-control" rows="4" cols="120" placeholder="Message"></textarea>
+                  <textarea class="form-control" rows="4" cols="120" placeholder="Nachricht"></textarea>
 
                 </div>
               </div>
@@ -439,7 +403,7 @@
 
             <div class="row">
               <div class="col-md-3 mx-auto get-in-tuch">
-                <button type="button" class="btn btn-default"> Get in Touch <i class="fas fa-angle-right"></i> </button>
+                <button type="button" class="btn btn-default"> Kontaktieren Sie uns: <i class="fas fa-angle-right"></i> </button>
               </div>
             </div>
 

@@ -161,13 +161,13 @@
                   bewerten und kaufen. Diese Verlagerung der Kundenreise in den Online-Bereich hat das Gesicht
                   des Marketings neu definiert.
                 </p>
-                <p> Dieser Übergang ist für Unternehmen äußerst vorteilhaft, da ihre Dienstleistungen oder Produkte
+                <p class="text-left">Dieser Übergang ist für Unternehmen äußerst vorteilhaft, da ihre Dienstleistungen oder Produkte
                   nun über Online-Plattformen beworben werden können. Digitales Marketing ist ein integraler
                   Prozess, der als Brücke zwischen den Dienstleistungen eines Unternehmens und seiner
                   Zielgruppe dient. Es hilft dabei, Ihre Ziele zu setzen, eine bestimmte Zielgruppe anzusprechen,
                   ihre Suchintention zu verstehen, einen passenden Plan zu entwickeln und umzusetzen, der Ihr
                   Unternehmen durchstarten lässt.</p>
-                <p>Giraf bietet Ihnen die besten Digital-Marketing-Strategien, die Ihren Erfolg garantieren.</p>
+                <p class="text-left"> Giraf bietet Ihnen die besten Digital-Marketing-Strategien, die Ihren Erfolg garantieren.</p>
 
               </div>
               <!--// col-md-12 -->
@@ -729,7 +729,7 @@
       <div class="form-bg box-commn">
         <div class="form-container">
           <form class="form-horizontal">
-            <h3 class="title"> Fill-in and <span> Reach Out </span> </h3>
+            <h3 class="title"> Kontaktformular </h3>
 
 
             <div class="row">

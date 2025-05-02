@@ -2299,6 +2299,9 @@ h2 {
     padding-top: 8px;
   }
 }
+.lets-talk-area .main-box .lets-talk-first h5 {
+  font-weight: 600;
+}
 .lets-talk-area .main-box .lets-talk-scnd {
   display: flex;
   justify-content: center;
@@ -3273,6 +3276,13 @@ h2 {
     padding: 40px 20px;
   }
 }
+.services-list-area .services-list .services-list-box.serv-detail-space.serv-detail-flex ul {
+  padding: 10px 0 10px 30px;
+}
+.services-list-area .services-list .services-list-box.serv-detail-space.serv-detail-flex ul li {
+  list-style: disc;
+  line-height: 28px;
+}
 .services-list-area .services-list .services-list-box.serv-detail-space.serv-page {
   padding: 30px 40px;
   border: 1px solid #ccc;
@@ -3629,7 +3639,7 @@ h2 {
 
 .service-web-app .box-commn-mbl {
   margin: 0 0 30px 0;
-  min-height: 220px;
+  min-height: 150px;
   border: 1px solid #ccc;
   border-radius: 20px;
   padding: 40px 30px;
@@ -3641,17 +3651,18 @@ h2 {
 }
 @media (max-width: 1599px) {
   .service-web-app .box-commn-mbl {
-    min-height: 280px;
+    min-height: 170px;
   }
 }
 @media (max-width: 1199px) {
   .service-web-app .box-commn-mbl {
-    min-height: 300px;
+    min-height: 170px;
   }
 }
 @media (max-width: 991px) {
   .service-web-app .box-commn-mbl {
     min-height: auto;
+    padding: 20px 30px;
   }
 }
 @media (max-width: 639px) {
@@ -3662,6 +3673,9 @@ h2 {
 .service-web-app .box-commn-mbl h5 {
   font-weight: 500;
   margin: 0 0 10px 0;
+}
+.service-web-app .box-commn-mbl p {
+  margin: 0;
 }
 
 .service-anim .box-commn-anm {
@@ -4020,7 +4034,8 @@ h2 {
 .service-detailes-brief-area .main-box .service-detailes-brief-scnd {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  flex-direction: column;
 }
 @media (max-width: 991px) {
   .service-detailes-brief-area .main-box .service-detailes-brief-scnd {
@@ -4116,6 +4131,16 @@ h2 {
   .service-detailes-content .pdng {
     padding: 10px 0px;
   }
+}
+.service-detailes-content .kreative {
+  padding: 50px 0 0 0;
+}
+.service-detailes-content .kreative ul {
+  padding: 10px 0 10px 30px;
+}
+.service-detailes-content .kreative ul li {
+  list-style: disc;
+  line-height: 28px;
 }
 
 .services-details-strip-area {
@@ -4880,6 +4905,28 @@ h2 {
   border: 1px solid #6a6a6a;
   border-radius: 10px;
   padding: 20px 16px 18px 16px;
+  height: 200px;
+}
+@media (max-width: 1599px) {
+  .how-we-do-the-magic-area .magic-box .how-we-do-the-magic-box {
+    height: 220px;
+  }
+}
+@media (max-width: 1199px) {
+  .how-we-do-the-magic-area .magic-box .how-we-do-the-magic-box {
+    height: 170px;
+  }
+}
+@media (max-width: 991px) {
+  .how-we-do-the-magic-area .magic-box .how-we-do-the-magic-box {
+    height: 200px;
+  }
+}
+@media (max-width: 639px) {
+  .how-we-do-the-magic-area .magic-box .how-we-do-the-magic-box {
+    height: auto;
+    margin: 15px 15px;
+  }
 }
 .how-we-do-the-magic-area .magic-box .how-we-do-the-magic-box h5 {
   color: #2d2b2b;
@@ -4941,11 +4988,11 @@ h2 {
   border: 1px solid #ccc;
   border-radius: 8px;
   padding: 10px 20px 20px 20px;
-  min-height: 320px;
+  min-height: 230px;
 }
 @media (max-width: 1599px) {
   .individualy-area .individualy-box {
-    min-height: 400px;
+    min-height: 320px;
   }
 }
 @media (max-width: 1199px) {
@@ -4964,6 +5011,13 @@ h2 {
 .individualy-area .individualy-box p {
   line-height: 27px;
   color: #333;
+}
+.individualy-area ul {
+  padding: 10px 0 10px 30px;
+}
+.individualy-area ul li {
+  list-style: disc;
+  line-height: 28px;
 }
 
 .unicorns {

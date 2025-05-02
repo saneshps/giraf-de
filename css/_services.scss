@@ -627,6 +627,15 @@
                             padding: 40px 20px;
                         }
                     }
+
+                    ul {
+                        padding: 10px 0 10px 30px;
+
+                        li {
+                            list-style: disc;
+                            line-height: 28px;
+                        }
+                    }
                 }
 
                 &.serv-page {
@@ -1032,7 +1041,7 @@
 .service-web-app {
     .box-commn-mbl {
         margin: 0 0 30px 0;
-        min-height: 220px;
+        min-height: 150px;
         border: 1px solid #ccc;
         border-radius: 20px;
         padding: 40px 30px;
@@ -1043,15 +1052,16 @@
         align-items: flex-start;
 
         @include respond-below(xl) {
-            min-height: 280px;
+            min-height: 170px;
         }
 
         @include respond-below(lg) {
-            min-height: 300px;
+            min-height: 170px;
         }
 
         @include respond-below(md) {
             min-height: auto;
+            padding: 20px 30px;
         }
 
         @include respond-below(sm) {
@@ -1061,6 +1071,10 @@
         h5 {
             font-weight: 500;
             margin: 0 0 10px 0;
+        }
+
+        p {
+            margin: 0;
         }
     }
 }
@@ -1448,7 +1462,8 @@
         .service-detailes-brief-scnd {
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start;
+            flex-direction: column;
 
             @include respond-below(md) {
                 padding: 0 0 20px 0;
@@ -1561,6 +1576,19 @@
 
         @include respond-below(sm) {
             padding: 10px 0px;
+        }
+    }
+
+    .kreative {
+        padding: 50px 0 0 0;
+
+        ul {
+            padding: 10px 0 10px 30px;
+
+            li {
+                list-style: disc;
+                line-height: 28px;
+            }
         }
     }
 }
@@ -2351,8 +2379,25 @@
             border: 1px solid #6a6a6a;
             border-radius: 10px;
             padding: 20px 16px 18px 16px;
+            height: 200px;
 
+            @include respond-below(xl) {
+                height: 220px;
+            }
 
+            @include respond-below(lg) {
+                height: 170px;
+            }
+
+            @include respond-below(md) {
+                height: 200px;
+            }
+
+            @include respond-below(sm) {
+                height: auto;
+                margin: 15px 15px;
+
+            }
 
 
             h5 {
@@ -2427,10 +2472,10 @@
         border: 1px solid #ccc;
         border-radius: 8px;
         padding: 10px 20px 20px 20px;
-        min-height: 320px;
+        min-height: 230px;
 
         @include respond-below(xl) {
-            min-height: 400px;
+            min-height: 320px;
         }
 
         @include respond-below(lg) {
@@ -2452,6 +2497,15 @@
         p {
             line-height: 27px;
             color: #333;
+        }
+    }
+
+    ul {
+        padding: 10px 0 10px 30px;
+
+        li {
+            list-style: disc;
+            line-height: 28px;
         }
     }
 }

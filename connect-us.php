@@ -146,7 +146,7 @@
   <section>
     <div class="banner-area">
       <img src="./img/banner-cnt.jpg" alt="banner">
-      <h1> Kontaktieren Sie uns </h1>
+      <h1> Kontakt </h1>
     </div>
   </section>
   <!-- =====================
@@ -160,9 +160,9 @@
     <div class="container">
       <div class="row box-commn justify-content-center align-items-center">
         <div class="col-xl-6 col-lg-7 col-md-12 address-from-first">
-          <h6> Kontaktieren Sie uns </h6>
-          <h4> Verbinden wir uns </h4>
-          <h4> Bleiben Sie im Wettbewerb aufrecht und selbstbewusst und behaupten Sie Ihren Platz. </h4>
+          <h6> Du bist fast am Ziel! </h6>
+          <h4> Rufen Sie uns an, um mehr darüber zu erfahren, wie wir Ihnen helfen können, sich von der
+            Masse abzuheben. </h4>
           <!-- <P> Ob Neuanfang oder starkes Comeback – bringen Sie Ihr Unternehmen mit uns zum Erfolg. Wir bieten Ihnen den besten Service.
 
             Kontaktieren Sie uns – wir stehen Ihnen zur Seite und arbeiten Hand in Hand.
@@ -170,11 +170,11 @@
 
           <ul class="address-list">
             <li> <i class="fas fa-map-marker-alt"></i> <a href="#"> Kistler Maschinen- und Anlagenbau GmbH, <br>
-                Mackstrasse 84, <br>
-                88348 Bad Saulgau, Germany </a> </li>
+                Mackstraße 84, <br>
+                88348 Bad Saulgau, Deutschland </a> </li>
             <li> <i class="fas fa-phone"></i> <a href="tel:+497581488820"> +49 / 7581 / 48882-0 </a> </li>
             <li> <i class="fas fa-envelope"></i> <a href="mailto:info@girafcreatives.com"> info@girafcreatives.com </a> </li>
-            <li> <i class="fas fa-map-marker-alt"></i> <a> Germany </a>
+            <li> <i class="fas fa-map-marker-alt"></i> <a> Deutschland </a>
             </li>
           </ul>
 

@@ -79,7 +79,7 @@
   <section>
     <div class="banner-area">
       <img src="./img/services/WEB-app-banner.jpg" alt="banner">
-      <h1> Web and App Development </h1>
+      <h1> Web- und App-Entwicklung </h1>
     </div>
   </section>
   <!-- =====================
@@ -98,17 +98,16 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
-            <h6> Web and App Development </h6>
-            <h4> END TO END WEB AND APP DEVELOPMENT </h4>
+            <h6> Web- und App-Entwicklung </h6>
+            <h4> END-TO-END WEB- UND APP-ENTWICKLUNG </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> “Experience seamless web and app development like never before.
-              Empower your business to reach new heights and reap the benefits of a competitive advantage.”
-            </p>
+            <p> „Erleben Sie nahtlose Web- und App-Entwicklung wie nie zuvor. Stärken Sie Ihr Unternehmen,
+              erreichen Sie neue Höhen und sichern Sie sich einen Wettbewerbsvorteil.“ </p>
           </div>
           <!--// col-md-8 -->
 
@@ -137,32 +136,30 @@
           <!-- col-md-12 -->
           <div class="col-md-12 service-detailes-brief-first p-0">
 
-            <h4 class="w-app"> Web and App Development </h4>
+            <h4 class="w-app"> Web- und App-Entwicklung </h4>
           </div>
           <!--// col-md-12 -->
 
 
           <!-- col-md-12 -->
           <div class="col-md-12 service-detailes-brief-scnd flex-column align-items-start">
-            <p> A strong digital presence is crucial for any business to succeed.
-              In an era where multiple companies compete to establish their presence in the online platform,
-              a well organised website is an absolute necessity. Web app development is the process of creating
-              informative and engaging websites and maintaining its standard consistently. Web app development
-              involves various processes which includes content creation, designing, coding,
-              understanding the users search intent and optimizing the web pages accordingly.
-              A well developed website which provides a smooth user experience with minimal lags will
-              convert website visitors to potential customers. Benefits of a well designed website are as follows:
+            <p> Eine starke digitale Präsenz ist für den Erfolg eines Unternehmens entscheidend. In einer Zeit, in
+              der zahlreiche Unternehmen um Aufmerksamkeit auf Online-Plattformen konkurrieren, ist eine
+              gut organisierte Website unverzichtbar. </p>
+            <p> Web-App-Entwicklung umfasst die Erstellung informativer und ansprechender Websites und die
+              konsequente Sicherung hoher Standards. Dazu gehören Content-Erstellung, Design, Codierung,
+              das Verständnis der Suchintention der Nutzer und die Optimierung der Webseiten entsprechend. </p>
+            <p> Eine gut entwickelte Website, die ein reibungsloses Nutzererlebnis mit minimalen
+              Verzögerungen bietet, verwandelt Besucher in potenzielle Kunden. </p>
 
-            </p>
+            <h5 class="mt-2 mb-2"> Vorteile einer hochwertigen Website: </h5>
             <ul>
-              <li> It will lead to increased media visibility </li>
-              <li> Converting website visitors to potential customers </li>
-              <li> Increase the popularity of brand image </li>
+              <li> Erhöhte Sichtbarkeit in Medien </li>
+              <li> Umwandlung von Website-Besuchern in potenzielle Kunden </li>
+              <li> Steigerung des Markenimages </li>
             </ul>
-            <p> Giraf is your trusted web designing partner as our primary focus is to understand your
-              customers and create customized websites accordingly.
-
-            </p>
+            <p> Giraf ist Ihr vertrauensvoller Webdesign-Partner — unser Hauptziel ist es, Ihre Kunden zu
+              verstehen und individuell angepasste Websites zu erstellen. </p>
           </div>
           <!--// col-md-12 -->
 
@@ -214,22 +211,17 @@
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-              <h4> Front and Back End Web Development </h4>
-              <p> The front end is what the users view and experience which includes the texts,
-                images and videos and the like. It focuses on creating the user interface and user experience of the website.
-                The key technologies employed in front end development are HTML which defines the structure of the website;
-                CSS, the style and layout and JAVA script makes the content of the web page more interactive.
-                Front end ensures that the website works without any glitches and provides a smooth user experience.
-
-              </p>
-              <p>The back end is the server side of the website, typically the processes that take
-                place in the background which includes managing data and seeing to it that the front
-                end runs without any errors. Back end developers utilize languages like PHP, Python and C++.
-
-              </p>
-              <p> Our website offers a next level digital experience which is visually appealing and inspirational.
-                Remember, a well structured website can reap immense benefits.
-              </p>
+              <h4> Front- und Backend-Webentwicklung </h4>
+              <ul>
+                <li> <b> Frontend: </b> Das, was Nutzer sehen und erleben — Texte, Bilder, Videos. Technologien
+                  wie HTML (Struktur), CSS (Layout) und JavaScript (Interaktivitat) sorgen für ein
+                  reibungsloses Erlebnis. </li>
+                <li> <b> Backend: </b> Serverseitige Prozesse — Verwaltung von Daten und Sicherstellung des
+                  fehlerfreien Ablaufs im Frontend. Wichtige Programmiersprachen: PHP, Python und
+                  C++. </li>
+              </ul>
+              <p> Unsere Websites bieten ein inspirierendes, visuell ansprechendes digitales Erlebnis. </p>
+              <p> <b> Merke: </b> Eine gut strukturierte Website kann enorme Vorteile bringen. </p>
             </div>
 
 
@@ -243,16 +235,12 @@
           <div class="row box-commn">
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-              <h4> Mobile App Development </h4>
-              <p> Mobile app development is the process of creating applications that run on portable electronic
-                devices such as mobile phones, tablets and gadgets of the like. It is most commonly
-                done for Android and iOS operating systems. The programming language commonly used
-                for mobile app development include HTML5, Python, Swift, JAVA and C#.
-                It can be pre installed or downloaded from the mobile app store or accessed through a web browser.
-                This way the customers can exploit the services in their mobiles leading to improved user
-                experience and supporting the marketing strategies.
-              </p>
-
+              <h4> Mobile App Entwicklung </h4>
+              <p> Mobile App Entwicklung bedeutet, Anwendungen für Geräte wie Smartphones und Tablets zu
+                erstellen. Meist für Android- und iOS-Betriebssysteme. Genutzte Programmiersprachen:
+                HTML5, Python, Swift, Java und C#. </p>
+              <p> Apps können vorinstalliert, aus App-Stores heruntergeladen oder über Browser genutzt werden
+                — sie verbessern das Nutzererlebnis und unterstützen Ihre Marketingstrategien. </p>
 
             </div>
 
@@ -260,38 +248,27 @@
               <img src="./img/services/web/Website-development.jpg" alt="Web Design">
             </div>
             <div class="col-xl-12 phase-m-app-title">
-              <h4> Phases of Mobile app development </h4>
+              <h4> Phasen der App-Entwicklung: </h4>
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
-                <h5 class="text-left"> 1. Strategy </h5>
-                <p class="text-left"> The brainstorming session where the objective of developing the mobile app is done.
-                  It includes understanding the user intent, creating the content,
-                  analyzing the competitive edge and market.
-
-                </p>
+                <h5 class="text-left"> 1. Strategie: </h5>
+                <p class="text-left"> Zieldefinition, Nutzeranalyse, Marktanalyse. </p>
               </div>
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
-                <h5 class="text-left"> 2. Planning </h5>
-                <p class="text-left"> In the planning phase the technologies, tools, and the intended release date of the application
-                  is determined by the developing team. Details regarding the type of mobile app, the resources,
-                  the platform, and the consecutive development of the app are done in this phase.
-
-                </p>
+                <h5 class="text-left"> 2. Planung: </h5>
+                <p class="text-left"> Technologien, Werkzeuge und Zeitpläne festlegen. </p>
               </div>
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
-                <h5 class="text-left"> 3. Design </h5>
-                <p class="text-left"> The designing phase includes the visual aesthetics, the features and the function of the app..
-                  Beginning with basic mockup and then gradually transitioning to the highly detailed final version.
-
-                </p>
+                <h5 class="text-left"> 3. Design: </h5>
+                <p class="text-left"> Visuelle Gestaltung, Funktionen, Benutzeroberfläche. </p>
               </div>
             </div>
 
@@ -299,11 +276,8 @@
 
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
-                <h5 class="text-left"> 4. Development </h5>
-                <p class="text-left"> The phase where the creation of the app in all of its senses takes place.
-                  The front and back end development, APIs and coding of the app.
-
-                </p>
+                <h5 class="text-left"> 4. Entwicklung: </h5>
+                <p class="text-left"> Frontend, Backend, APIs und Codierung. </p>
 
               </div>
             </div>
@@ -311,12 +285,9 @@
 
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
-                <h5 class="text-left"> 5. Testing </h5>
-                <p class="text-left"> Here the usability of the app is determined by conducting quality tests to verify the performance,
-                  stability and security of the app.
+                <h5 class="text-left"> 5. Testing: </h5>
+                <p class="text-left"> Qualitätskontrollen, Performance-, Stabilitäts- und Sicherheitstests. </p>
 
-                </p>
-                <p class="text-left"> Experience the power of our app tech that will skyrocket your dreams, as we create user friendly, fast and efficient apps. </p>
               </div>
             </div>
 
@@ -324,11 +295,7 @@
             <div class="col-xl-6 col-lg-6 col-md-12">
               <div class="box-commn-mbl">
 
-                <h5 class="text-left"> 6. Custom CMS for Rapid n Scale </h5>
-                <p class="text-left"> Content Management System helps in effective content management, SEO optimization,
-                  improve user experience and aids in growth of the company’s brand.
-                </p>
-                <p class="text-left"> At Giraf we provide custom CMS that provides features to improve the search engine ranking ensuring your succes. </p>
+                <p class="text-left"> Erleben Sie unsere App-Technologien, die Ihre Visionen auf das nächste Level heben. </p>
               </div>
             </div>
 
@@ -349,14 +316,11 @@
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12 services-list-box serv-detail-space serv-detail-flex">
-              <h4> Custom CMS for Rapid n Scale </h4>
-              <p> Gain SEO advantage over your peers, perform ahead like a v12 engine with
-                the safety of x90!!! Be an e - commerce, Machinery supplier or any other service provider,
-                we got you covered like bumper to bumper insurance!
-
-
-              </p>
-
+              <h4> Individuelle CMS-Systeme für schnelles Wachstum </h4>
+              <p> Ein Content Management System (CMS) unterstützt effektives Content-Management, verbessert
+                die SEO und optimiert das Nutzererlebnis. </p>
+              <p> Giraf bietet maßgeschneiderte CMS-Lösungen zur Verbesserung Ihres Suchmaschinenrankings
+                und zur Förderung Ihres Erfolgs.</p>
             </div>
 
 
@@ -383,13 +347,9 @@
         <!-- WEB-APP-DEVELOPMENT -->
         <div class="col-xl-4" data-aos="fade-right" data-aos-duration="2000">
           <div class="individualy-box">
-            <h4> Individually to stand out </h4>
-            <p> In the sea of mediocre designs and functionality,
-              we move forward with reduced development time and app production
-              coupled with a precise resource driven process.
-
-            </p>
-            <p> To stand tall, you need apps and websites that reflect ideas of your business. </p>
+            <h4> Herausstechen statt untergehen: </h4>
+            <p> Inmitten mittelmäßiger Designs sorgen wir für reduzierte Entwicklungszeiten und präzise,
+              ressourcenschonende App-Produktionen. </p>
           </div>
         </div>
         <!-- WEB-APP-DEVELOPMENT -->
@@ -397,21 +357,14 @@
         <!-- WEB-APP-DEVELOPMENT -->
         <div class="col-xl-8" data-aos="fade-right" data-aos-duration="2000">
           <div class="individualy-box">
-            <h4> Importance of Android and IOS App Development </h4>
-            <p> Android runs a majority of smartphones in the world,
-              making up almost 75 percent of smartphones. This amounts to huge numbers
-              that app developers should take seriously.
-            </p>
-            <p> Developing a successful Android app demands in-depth expertise and comprehensive
-              knowledge about the platform. Today, in the already overcrowded Google Play Store,
-              it is no longer sufficient to just have an app. Instead, your Android application
-              should be innovative with unique features while still being robust and reliable,
-              thus giving the users an exceptional experience.
-            </p>
-            <p> When it comes to IOS, unique strategy is pretty crucial, Giraf offers apps backed
-              by native software support with our experienced team of developers
-              and additionally offer extensive support.
-            </p>
+            <h4> Warum Android- und iOS-Entwicklung wichtig ist: </h4>
+            <ul>
+              <li> Android besitzt rund 75 % des Smartphone-Marktes. </li>
+              <li> Erfolgreiche Android-Apps erfordern umfassende Kenntnisse und Expertise. </li>
+              <li> Im überfüllten Google Play Store müssen Apps innovativ, robust und einzigartig sein. </li>
+              <li> Für iOS-Apps bietet Giraf native Softwareunterstützung und umfassende Betreuung
+                durch erfahrene Entwickler. </li>
+            </ul>
           </div>
         </div>
         <!-- WEB-APP-DEVELOPMENT -->
@@ -435,7 +388,7 @@
   <section class="services-details-strip-area">
     <div class="main-box">
       <div class="strip-text">
-        <h4> Web and App Development </h4>
+        <h4> Web- und App-Entwicklung </h4>
         <h3> Giving Your Business Some Great Ideas </h3>
       </div>
     </div>
@@ -452,7 +405,7 @@
       <div class="form-bg box-commn">
         <div class="form-container">
           <form class="form-horizontal">
-            <h3 class="title"> Fill-in and <span> Reach Out </span> </h3>
+            <h3 class="title"> Kontaktformular </h3>
 
 
             <div class="row">
@@ -467,14 +420,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Phone">
+                  <input type="text" class="form-control" placeholder="Telefon">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="email" class="form-control" placeholder="Email">
+                  <input type="email" class="form-control" placeholder="E-Mail">
                 </div>
               </div>
               <!--// col-md-4 -->
@@ -484,14 +437,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Company Name">
+                  <input type="text" class="form-control" placeholder="Unternehmensname">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-8 -->
               <div class="col-xl-8 col-lg-8 col-md-12">
                 <div class="form-group">
-                  <textarea class="form-control" rows="4" cols="120" placeholder="Message"></textarea>
+                  <textarea class="form-control" rows="4" cols="120" placeholder="Nachricht"></textarea>
 
                 </div>
               </div>
@@ -502,7 +455,7 @@
 
             <div class="row">
               <div class="col-md-3 mx-auto get-in-tuch">
-                <button type="button" class="btn btn-default"> Get in Touch <i class="fas fa-angle-right"></i> </button>
+                <button type="button" class="btn btn-default"> Kontaktieren Sie uns: <i class="fas fa-angle-right"></i> </button>
               </div>
             </div>
 

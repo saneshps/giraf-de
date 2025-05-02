@@ -96,7 +96,7 @@
     <div class="banner-area">
       <img src="./img/portfolio/banner.jpg" alt="banner">
       <div class="head-title">
-        <h1> Works </h1>
+        <h1> Projekte </h1>
       </div>
     </div>
   </section>
@@ -1458,6 +1458,7 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 lets-talk-first">
+            <h5> Connecting Voices Across the World </h5>
             <h4> Wir verbinden Stimmen auf der ganzen Welt </h4>
           </div>
           <!--// col-md-4 -->

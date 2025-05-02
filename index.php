@@ -291,10 +291,10 @@ $result = $conn->query($sql);
   <section class="text-loop-area">
     <div class="loop-overlay"></div>
     <div class="l">
-      Digitales Marketing | Markenbildung | Design | Web- und App-Entwicklung | Produkt-Erklärvideos | Animation
+      Branding | Designing | Digital Marketing | Animation | Fotografie und Videoproduktion | Web- und App-Entwicklung
     </div>
     <div class="r">
-      Digitales Marketing | Markenbildung | Design | Web- und App-Entwicklung | Produkt-Erklärvideos | Animation
+      Branding | Designing | Digital Marketing | Animation | Fotografie und Videoproduktion | Web- und App-Entwicklung
     </div>
   </section>
 
@@ -489,7 +489,7 @@ $result = $conn->query($sql);
           <!-- col-md-4 -->
           <div class="col-xl-5 col-lg-5 col-md-12 services-home-first">
             <h6> DIENSTLEISTUNGEN </h6>
-            <h4> Wir geben uns nicht mit &quot;besser&quot; zufrieden – wir gestalten Exzellenz </h4>
+            <h4> Wir geben uns nicht mit "besser" zufrieden – wir gestalten Exzellenz </h4>
           </div>
           <!--// col-md-4 -->
 

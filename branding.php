@@ -111,30 +111,26 @@
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
             <h6> Branding </h6>
-            <h4> Giving Your Business
-              Some Great Ideas </h4>
+            <h4> Großartige Ideen für Ihr Unternehmen </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> “I Am going to tell a real story and Let’s start with my name”
-              “Brand is like a sprout from your reputation”
-              Branding brings trust, confidence, and assurance to your customers. In today’s world,
-              customers prefer to choose known brands since it automatically associates with quality and
-              durability rather than what is paid for it.
-
-              Create a Brand Identity that makes our target customers choose our product or service without
-              a second thought. A brand Identity that can be trusted. A brand where there are only loyal customers.
-              A brand that the whole nation sings.
-
-              Build an online brand identity that can be expressed on virtually any digital channel,
-              like your website, social media profiles, digital ads, and content marketing by using digital assets,
-              this process is called digital branding.
-
-              Come on, let’s start working on it!
-            </p>
+            <p> „Ich werde eine echte Geschichte erzählen und fangen wir mit meinem Namen an.“ „Eine Marke
+              ist wie ein Spross Ihres Rufs.“ </p>
+            <p>Branding schafft Vertrauen, Sicherheit und Zuversicht bei Ihren Kunden. In der heutigen Welt
+              bevorzugen Kunden bekannte Marken, da sie automatisch mit Qualität und Langlebigkeit
+              assoziiert werden, unabhängig vom Preis. Erschaffen Sie eine Markenidentität, die unsere
+              Zielkunden dazu bringt, sich ohne zu zögern für unser Produkt oder unsere Dienstleistung zu
+              entscheiden. Eine Markenidentität, der sie vertrauen. Eine Marke, die nur loyale Kunden hat.
+              Eine Marke, die von der ganzen Nation besungen wird.</p>
+            <p>Bauen Sie eine Online-Markenidentität auf, die auf praktisch jedem digitalen Kanal ausgedrückt
+              werden kann, wie z. B. Ihrer Website, Social-Media-Profilen, digitalen Anzeigen und Content-
+              Marketing durch die Nutzung digitaler Assets. Dieser Prozess wird als digitales Branding
+              bezeichnet.</p>
+            <p> Los geht's – lassen Sie uns daran arbeiten!</p>
           </div>
           <!--// col-md-8 -->
 
@@ -163,110 +159,83 @@
           <div class="col-xl-12 mb-4">
             <h4> Branding </h4>
 
-            <p> A unique brand is the hallmark of a company. The strength of the brand plays an important role
-              in establishing the business venture as a distinguished enterprise in the competitive field.
-              A well wrought branding is the perfect blend of a well designed logo that is visually appealing,
-              choosing the right fonts and colour palette, drafting a unique brand narrative that emphasizes
-              the mission and vision of the company and using high quality images to highlight the brand
-              and crafting a catchy business name. The aim is to design a brand identity that persuades
-              the customers to choose your product or service without a second thought,a brand that they trust.
-              A brand stands as a testament to a company’s very existence and motives.
-              A well developed brand will earn the trust of the potential users and ensure
-              the success of the business. So build a brand identity which can be shared across
-              any digital platforms like social media, websites,digital ads and content marketing
-              by using digital assets, through the process of digital branding.
+            <p> Eine einzigartige Marke ist das Erkennungszeichen eines Unternehmens. Die Stärke der Marke
+              spielt eine entscheidende Rolle bei der Etablierung eines Unternehmens als angesehenes
+              Unternehmen auf dem wettbewerbsintensiven Markt. Ein durchdachtes Branding ist die perfekte
+              Mischung aus einem gut gestalteten, visuell ansprechenden Logo, der Auswahl der richtigen
+              Schriftarten und Farbpalette, dem Entwurf einer einzigartigen Markenerzählung, die die Mission
+              und Vision des Unternehmens betont, sowie der Verwendung hochwertiger Bilder zur
+              Hervorhebung der Marke und der Kreation eines einprägsamen Unternehmensnamens. </p>
+            <p> Das Ziel ist es, eine Markenidentität zu gestalten, die Kunden dazu bewegt, sich ohne Zögern für
+              Ihr Produkt oder Ihre Dienstleistung zu entscheiden — eine Marke, der sie vertrauen. Eine
+              Marke steht als Zeugnis für die Existenz und die Motive eines Unternehmens. Eine gut
+              entwickelte Marke wird das Vertrauen potenzieller Nutzer gewinnen und den Erfolg des
+              Unternehmens sichern. </p>
+            <p> Bauen Sie eine Markenidentität auf, die über alle digitalen Plattformen hinweg geteilt werden
+              kann, wie z. B. soziale Medien, Websites, digitale Werbung und Content-Marketing durch die
+              Nutzung digitaler Assets, im Rahmen des Prozesses des digitalen Brandings. </p>
 
-            </p>
-            <h4> Developing Strong Brands to Unleash Your Value </h4>
 
-            <p> Brand: It's an emotion. a mindset. renown and acknowledgment.
-              It creates distinction and dignity. It may be highly subjective and individualized.
-              It is essential for B2B since it helps coordinate the efforts of several decision-makers
-              in a convoluted procurement process.
-            </p>
-            <p> A successful brand should evoke strong feelings. It ought to shorten the sales cycle,
-              boost advocacy, and create more opportunities for sales. This is the tangible application of the brand,
-              or buyer enablement, and it necessitates an end-to-end strategy.
-            </p>
 
-            <h4 class="clr"> Our Services </h4>
+            <h4 class="clr"> Unsere Leistungen </h4>
 
-            <h4 class="mb-3"> Logo Design </h4>
-            <p>They say that the first impression is the best impression and logo is an important factor
-              that determines this. Creating a logo that guarantees a lasting and memorable impression
-              on the user is essential. A versatile logo will help your business to standout from the
-              wave of mediocracy. Logo is the combination of a company’s wordmark along with a graphic
-              symbol that represents the entire enterprise. It is far more than just an image.
-              While designing a logo having the target audience in mind will help in creating
-              one which will strike a chord with the customers.
-              A unique and memorable logo will create a lasting impact on the users which will
-              strengthen their trust thereby turning them into loyal customers.
-            </p>
-            <p> Giraf aims to collaborate closely with you to create a logo that aligns with your brand story,
-              vision thereby building a connection with your customers. Our team will assist you if you need
-              to define your brand, which is also known as your brand story or if you require to create a
-              complete brand identity which includes a company logo, strapline, tone of voice,
-              colour palette and typography.
-
-            </p>
+            <h4 class="mb-3"> Logo-Design </h4>
+            <p> Man sagt, der erste Eindruck ist der wichtigste, und das Logo ist ein entscheidender Faktor dafür.
+              Ein Logo zu erstellen, das einen bleibenden und einprägsamen Eindruck hinterlässt, ist
+              wesentlich. Ein vielseitiges Logo wird Ihrem Unternehmen helfen, sich von der Masse der
+              Mittelmäßigkeit abzuheben. Ein Logo ist die Kombination aus dem Schriftzug eines
+              Unternehmens und einem grafischen Symbol, das das gesamte Unternehmen repräsentiert. Es ist
+              weit mehr als nur ein Bild. </p>
+            <p> Bei der Gestaltung eines Logos hilft es, die Zielgruppe im Blick zu haben, um eines zu schaffen,
+              das bei den Kunden Resonanz erzeugt. Ein einzigartiges und einprägsames Logo wird einen
+              bleibenden Eindruck bei den Nutzern hinterlassen, ihr Vertrauen stärken und sie in loyale
+              Kunden verwandeln. </p>
+            <p> Giraf arbeitet eng mit Ihnen zusammen, um ein Logo zu kreieren, das mit Ihrer Markenstory und
+              Ihrer Vision übereinstimmt und so eine Verbindung zu Ihren Kunden aufbaut. Unser Team
+              unterstützt Sie auch dabei, Ihre Marke zu definieren (auch bekannt als Ihre Markengeschichte)
+              oder eine komplette Markenidentität zu erstellen, die Unternehmenslogo, Slogan, Tonalität,
+              Farbpalette und Typografie umfasst. </p>
 
           </div>
           <div class="col-xl-12">
-            <h4> Packaging Design </h4>
-            <p>Creating a packaging that conveys the essence of the brand and captivates the audience
-              is essential for any business to thrive. Package designing is more than just an outer cover,
-              it is the materialization of various aspects including the visual aesthetics,
-              the functional and practical aspects and customer perception.
+            <h4> Verpackungsdesign </h4>
+            <p> Eine Verpackung zu schaffen, die das Wesen der Marke vermittelt und das Publikum begeistert,
+              ist für jedes Unternehmen essenziell, um erfolgreich zu sein. Verpackungsdesign ist mehr als nur
+              eine äußere Hülle — es ist die Materialisierung verschiedener Aspekte wie visueller Ästhetik,
+              funktionaler und praktischer Eigenschaften sowie der Kundenwahrnehmung.
 
             </p>
-            <p>A culmination of form, structure, materials, colour, imagery along with supplementary
-              design elements which results in the creation of a visually appealing product that is
-              suitable for marketing. Giraf will help you in this process of designing the outer
-              cover that is stunning and modern.
+            <p> Eine Kombination aus Form, Struktur, Materialien, Farben, Bildern und zusätzlichen
+              Gestaltungselementen führt zur Schaffung eines visuell ansprechenden Produkts, das für den
+              Markt geeignet ist. Giraf unterstützt Sie bei diesem Prozess und entwickelt eine Verpackung, die
+              modern und beeindruckend ist.
 
-            </p>
-
-
-            <h4> Business Card Design </h4>
-            <p> Notwithstanding the technological advancements, business cards still retain their prominence.
-              A business card contains the chief details which includes the contact information of a particular company.
-              It is not merely a card, it also serves as a medium of brand marketing if created with the best business
-              card templates. Giraf provides custom card design services that guides the customers through
-              engaging and aesthetic designs.
             </p>
 
 
+            <h4> Visitenkartendesign </h4>
+            <p> Trotz aller technologischen Fortschritte behalten Visitenkarten ihre Bedeutung. Eine Visitenkarte
+              enthält die wichtigsten Informationen, darunter die Kontaktdaten eines Unternehmens. Sie ist
+              nicht nur eine Karte, sondern auch ein Medium für Markenmarketing, wenn sie mit den besten
+              Vorlagen erstellt wird.
+            </p>
+
+            <p>Giraf bietet individuelle Visitenkartendesigns an, die Kunden durch ansprechende und
+              ästhetische Designs begeistern.</p>
 
             <h4> Brand Corporate Video </h4>
-            <p> In a world driven by visual media, videos are one of the most engaging content types.
-              Investing in a proper brand corporate video will aid in promoting the business.
-              Creating a comprehensive video that covers all the information regarding a company’s vision,
-              business ideals, presenting the product and its necessary details will in turn effectively
-              engage the audience, enlightening them regarding the business enterprise.
+            <p> In einer Welt, die von visuellen Medien angetrieben wird, sind Videos eine der wirkungsvollsten
+              Content-Formate. Die Investition in ein hochwertiges Unternehmensvideo wird dazu beitragen,
+              Ihr Unternehmen effektiv zu fördern. </p>
+            <p> Ein umfassendes Video zu erstellen, das alle Informationen über die Vision, die Geschäftsideale
+              und die Produkte eines Unternehmens abdeckt, wird das Publikum effektiv einbinden und über
+              das Unternehmen informieren. </p>
+            <p> Bei Giraf bieten wir Ihnen ideale Corporate-Video-Inhalte zu wettbewerbsfähigen Preisen an. Ob
+              als 360-Grad-Video, Augmented Reality, Virtual Reality, Live-Action oder Animation — unser
+              Expertenteam erstellt das perfekte Videomaterial, damit Ihre Inhalte in Suchergebnissen sichtbar
+              werden. </p>
 
-            </p>
-            <p>At Giraf, we aim to provide the ideal corporate video content at the most competitive price.
-              Whether it’s in the form of 360- degree, augmented, virtual, live action or animation,
-              our team of experts are here to craft the ideal video content that will ensure that
-              every video you upload appears in search results.
 
-            </p>
-            <h4> Brand Development </h4>
-            <p> At Giraf, we utilize strategic precision to combine creativity and intelligence to produce
-              brand outcomes that impact in the real world. Our mission is to motivate the unrelenting
-              pursuit of sustainable results in conjunction with companies that actually care about changing the world.
-            </p>
-            <p> Giraf crafts brands that reflect the ideals and goals of your target market.
-              We are aware that a brand is much more than simply a good or service—rather,
-              it is an extension of the culture and way of life of your target market.
-            </p>
-            <p> Our group of branding specialists has a track record of developing memorable brand identities
-              that encapsulate the spirit of the companies we work with and the affections of their devoted clientele.
-              We have the abilities and know-how to assist you in building a distinctive brand,
-              from strategic brand development to unique logo design, visual identity creation,
-              digital marketing, corporate photo and video shoots and advertising campaigns,
-              package design, and website design.
-            </p>
           </div>
 
 
@@ -285,144 +254,6 @@
 
 
 
-
-  <!-- =========================
-        OTHER SERVICEs AREA START
-      ========================= -->
-  <!-- <section class="services-list-area serv-detail">
-    <div class="container">
-
-      <h2> Giraf’s Digital Marketing Services </h2>
-      <p> Build Brand Recognition as an Industry Leader and Increase Profitability </p>
-      <div class="row">
-        <div class="col-xl-12 col-lg-12 col-md-12 services-list">
-          <div class="row">
-          
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 01 </h3>
-              <h2>Digital Strategy </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat. </p>
-            </div>
-         
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 02 </h3>
-              <h2> Conversion Rate </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat.</p>
-
-
-            </div>
-            
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 03 </h3>
-              <h2> Optimisation </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat.</p>
-
-
-            </div>
-         
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 04 </h3>
-              <h2> Digital Marketing </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat.</p>
-
-            </div>
-          
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 05 </h3>
-              <h2> Data Analysis </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat.</p>
-
-            </div>
-         
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 06 </h3>
-              <h2> E-Commerce </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat.</p>
-
-
-            </div>
-            
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 07 </h3>
-              <h2> SEO & SEM </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat.</p>
-
-
-            </div>
-            
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 08 </h3>
-              <h2> Website & Apps </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat.</p>
-
-
-            </div>
-            
-            <div class="col-xl-4 col-lg-6 col-md-6 services-list-box serv-detail-space">
-              <h3> 08 </h3>
-              <h2> CRM & CMS </h2>
-              <p> Lorem ipsum dolor sit amet, consectetuer adipiscing
-                elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea
-                commodo consequat.</p>
-
-
-            </div>
-         
-
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!-- =========================
-        OTHER SERVICEs AREA END
-      ========================= -->
-
-
   <!-- ============================
         SERVICES STRIP AREA START
       ============================ -->
@@ -430,7 +261,7 @@
     <div class="main-box">
       <div class="strip-text">
         <h4> Branding </h4>
-        <h3> Giving Your Business Some Great Ideas </h3>
+        <h3> Großartige Ideen für Ihr Unternehmen. </h3>
       </div>
     </div>
   </section>
@@ -446,7 +277,7 @@
       <div class="form-bg box-commn">
         <div class="form-container">
           <form class="form-horizontal">
-            <h3 class="title"> Fill-in and <span> Reach Out </span> </h3>
+            <h3 class="title"> Kontaktformular </h3>
 
 
             <div class="row">
@@ -461,14 +292,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Phone">
+                  <input type="text" class="form-control" placeholder="Telefon">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="email" class="form-control" placeholder="Email">
+                  <input type="email" class="form-control" placeholder="E-Mail">
                 </div>
               </div>
               <!--// col-md-4 -->
@@ -478,14 +309,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Company Name">
+                  <input type="text" class="form-control" placeholder="Unternehmensname">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-8 -->
               <div class="col-xl-8 col-lg-8 col-md-12">
                 <div class="form-group">
-                  <textarea class="form-control" rows="4" cols="120" placeholder="Message"></textarea>
+                  <textarea class="form-control" rows="4" cols="120" placeholder="Nachricht"></textarea>
 
                 </div>
               </div>
@@ -496,7 +327,7 @@
 
             <div class="row">
               <div class="col-md-3 mx-auto get-in-tuch">
-                <button type="button" class="btn btn-default"> Get in Touch <i class="fas fa-angle-right"></i> </button>
+                <button type="button" class="btn btn-default"> Kontaktieren Sie uns <i class="fas fa-angle-right"></i> </button>
               </div>
             </div>
 
