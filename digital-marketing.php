@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Looking for a digital marketing company in India,then you are at the right place. We offer affordable online, Internet marketing,SEO services to clients">
-  <title> Best Digital Marketing Company,India |SEO Agency|Giraf </title>
+  <meta name="description" content="Steigern Sie die Performance Ihrer Marke mit der besten Digital-Marketing-Agentur in Deutschland – Giraf">
+  <title> Beste Digital-Marketing-Agentur in Deutschland | Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/de/digital-marketing.php" rel="canonical">
   <!--// canonical -->

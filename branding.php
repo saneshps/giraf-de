@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="We are a leading Professional Advertising & Branding Agency in India.We also focus on Brand Strategy,Brand Identity,Digital Design,Print Design,Packaging services">
-  <title> Advertising &Professional Branding Agency,India|Giraf </title>
+  <meta name="description" content="Wir sind das beste Branding-Unternehmen in Deutschland, das Ihnen hilft, eine visuell starke Marke mit kreativer Strategie zu schaffen">
+  <title> Top-Bewertete Branding-Agentur in Deutschland | Branding | Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/de/branding.php" rel="canonical">
   <!--// canonical -->

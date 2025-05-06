@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Check out our Portfolio which made us the best Digital Marketing,Branding,E-commerce,Web Design & Development Company in India.Have a look at our extensive portfolio">
-  <title> Digital Marketing & Web Design,Branding Company| Portfolio |Giraf </title>
+  <meta name="description" content="Entdecken Sie unser Portfolio für Branding, Animation, Webdesign und digitale Lösungen für Unternehmen jeder Größe">
+  <title> Kreatives Portfolio | Digital Marketing & Entwicklung – Giraf </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/de/portfolio.php" rel="canonical">
   <!--// canonical -->

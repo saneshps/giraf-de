@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Giraf is a professional 3D animation agency in India.Contact us for professional and affordable animated video production services">
-  <title> Best Animation Company,India|3D Animation Studio |Giraf </title>
+  <meta name="description" content="Giraf Creatives bietet professionelle Animationsdienstleistungen für Marken, die begeistern und in Erinnerung bleiben">
+  <title> Top-Animationsagentur in Deutschland | Giraf Creatives </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/de/animation.php" rel="canonical">
   <!--// canonical -->

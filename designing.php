@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Giraf </title>
+  <meta name="description" content="Wir sind der führende Anbieter für Designleistungen in Deutschland – mit ansprechenden, funktionalen und kreativen Lösungen">
+  <title> Führende Design-Services in Deutschland | Giraf Creatives </title>
   <!-- canonical -->
   <link href="https://girafcreatives.com/de/designing.php" rel="canonical">
   <!--// canonical -->

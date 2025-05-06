@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Learn more about Giraf, Germany's top digital marketing company.We specialize in branding,animation, web & app development, design, photography& videography">
-  <title> Digital Marketing & Web Development Company,Germany|About Us|Giraf </title>
+  <meta name="description" content="Erfahren Sie mehr über Giraf, Deutschlands führende Agentur für digitales Marketing und kreative Weblösungen">
+  <title> Digital-Marketing- & Webentwicklungsagentur Deutschland | Giraf </title>
 
   <!-- canonical -->
   <link href="https://girafcreatives.com/de/about.php" rel="canonical">
