@@ -110,21 +110,19 @@
 
           <!-- col-md-4 -->
           <div class="col-xl-4 col-lg-4 col-md-12 service-detailes-brief-first">
-            <h6> Photography & Video Production </h6>
-            <h4> Giving Your Business
-              Some Great Ideas </h4>
+            <h6> Photography and Video Production </h6>
+            <h4>  Großartige Ideen für Ihr Unternehmen </h4>
           </div>
           <!--// col-md-4 -->
 
 
           <!-- col-md-8 -->
           <div class="col-xl-8 col-lg-8 col-md-12 service-detailes-brief-scnd">
-            <p> "One size fits all" doesn't work in web designing. Each customer is different and their
-              approach to business too. That's where we become your web designing partner and create
-              customized websites.
-              “Craft your ideas with us”
-              Our clients consider us as one of the top Web Developers
-              because we have a team who got hands-on experience.</p>
+            <p>  "One size fits all" funktioniert nicht im Webdesign. Jeder Kunde ist einzigartig und verfolgt
+seinen eigenen Ansatz im Geschäft. Genau hier kommen wir ins Spiel: Wir werden Ihr
+Webdesign-Partner und erstellen individuelle Websites. „Verwirklichen Sie Ihre Ideen mit uns.“
+Unsere Kunden betrachten uns als einen der besten Webentwickler, denn unser Team verfügt
+über umfassende Praxiserfahrung.  </p>
           </div>
           <!--// col-md-8 -->
 
@@ -158,24 +156,25 @@
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
           <div class="photography-head-content">
 
-            <h4> Photography and Video Production </h4>
-            <p> In this digital age where access to information is preferred in a swift and concise manner,
-              engaging and retaining the interest of the users has become a challenging task.
-              It is essential that the companies develop effective strategies to narrate their
-              brand story and visions amidst the potential noises and capture the attention of the users.
-              The influence and impact of the visual medium is as clear as daylight,
-              so is the role of photography and video production. Remarkable photography and video production
-              is an essential marketing strategy for any business to succeed.
+            <h4> Fotografie und Videoproduktion </h4>
+            <p> In diesem digitalen Zeitalter, in dem schneller und präziser Informationszugang bevorzugt wird,
+ist es eine Herausforderung geworden, das Interesse der Nutzer zu gewinnen und
+aufrechtzuerhalten. Unternehmen müssen effektive Strategien entwickeln, um ihre Markenstory
+und Vision inmitten des allgemeinen Informationsrauschs zu erzählen und dabei die
+Aufmerksamkeit der Nutzer zu fesseln.
             </p>
-            <p> Humans being visual creatures are naturally drawn to images and videos.
-              But incoherent photographs and lengthy videos will not inspire the audience.
-              Hence the quality of the photos and videos should not be compromised.
+            <p> Die Wirkung visueller Medien ist offensichtlich — ebenso ihre Rolle für den Erfolg eines
+Unternehmens. Hochwertige Fotografie und Videoproduktion sind unverzichtbare
+Marketingstrategien.
 
             </p>
-            <p> At Giraf we are committed to produce high quality photography and videography
-              contents that will impress our clients and customers alike.
+            <p>  Menschen sind visuelle Wesen und werden natürlich von Bildern und Videos angezogen.
+Unzusammenhängende Fotos oder langatmige Videos schrecken jedoch ab. Daher darf die
+Qualität niemals kompromittiert werden.
 
             </p>
+            <p> Bei Giraf sind wir bestrebt, hochwertige Foto- und Videoinhalte zu produzieren, die sowohl
+            unsere Kunden als auch deren Zielgruppen beeindrucken.</p>
 
           </div>
         </div>
@@ -190,14 +189,11 @@
         <div class="col-xl-9 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-head-content">
 
-            <h4> Photography & Video Production </h4>
-            <p> Catching a customer's eye is an art in itself, leading to simplifying complicated subjects.
-              At GIRAF, we aspire to impress our customers and their clients alike with exceptional
-              photography and videography productions that will go above and beyond.
+            <h4> Kunst, die Aufmerksamkeit fängt </h4>
+            <p>   Bei GIRAF streben wir danach, durch außergewöhnliche Foto- und Videoproduktionen sowohl
+            unsere Kunden als auch deren eigene Kunden nachhaltig zu beeindrucken.
 
-            </p>
-            <p> Quality contents are worth fortunes, a moment, a flicker of a switch is all that is needed for an appraisal of your company/clients.
-              With GIRAF’s remarkably talented photography and videography production, you will flourish in today’s market with ease.</p>
+            </p> 
           </div>
         </div>
       </div>
@@ -208,11 +204,10 @@
 
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
-            <h4> You are in Charge </h4>
-            <p> Here at GIRAF, we love to know what you have in mind, it's not rhetoric,
-              but a cumulative process through which we bring the best to the table.
-              Our videographers are excellent professionals with a third eye!! Cultivating
-              collaborative ideas with the best players in the market.
+            <h4> Sie haben das Sagen </h4>
+            <p>  Bei GIRAF wollen wir genau wissen, was Sie im Kopf haben. Es ist keine Floskel, sondern ein
+kollaborativer Prozess, durch den wir das Beste auf den Tisch bringen. Unsere Videografen sind
+exzellente Fachleute mit einem "dritten Auge" für Details!
 
             </p>
           </div>
@@ -227,40 +222,38 @@
 
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
-            <h4> Brand Trust </h4>
-            <p> Forging audience trust is the keyword to our success with our innumerable clients. </p>
+            <h4> Markenvertrauen </h4>
+            <p> Das Vertrauen des Publikums zu gewinnen, ist der Schlüssel zu unserem Erfolg — und der
+            unserer zahllosen Kunden. </p>
           </div>
         </div>
 
 
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
-            <h4> Spark Conversation </h4>
-            <p> Positive word of mouth is good business, our services are guaranteed to
-              grab everyone and keep them hooked. There is a difference between amateurish videos,
-              where everything falls extremely short of expectation, which often turns out bland
-              like an ordinary salad.
+            <h4> Gespräche anregen </h4>
+            <p> Positive Mundpropaganda ist der beste Geschäftsmotor. Unsere Services sind darauf ausgelegt,
+Aufmerksamkeit zu gewinnen und aufrechtzuerhalten. Im Gegensatz zu amateurhaften
+Produktionen bieten wir hochwertige Inhalte, die Erwartungen übertreffen.
             </p>
           </div>
         </div>
 
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
-            <h4> Precision </h4>
-            <p> Video and photography productions should never be inconsistent,
-              editing, and cutting, which enhances its attributes must be as sharp as a katana,
-              and emphasize stories and ideas to the targeted audience with fidelity.
+            <h4> Präzision </h4>
+            <p> Foto- und Videoproduktionen müssen konsistent und perfekt geschnitten sein. Scharfe
+            Bearbeitung hebt Geschichten und Ideen für Ihre Zielgruppe eindrucksvoll hervor.
             </p>
           </div>
         </div>
 
         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-sub-title">
-            <h4> Enhance your Identity </h4>
-            <p> Images and videos are the best medium since their inception to cultivate a
-              seed in minds with a lasting impression. Corporate photography services harness this core idea.
-              With GIRAF, you can cruise through the competitors while reaping benefits and reaching your
-              targets within your aspired time limits.
+            <h4> Identität stärken </h4>
+            <p> Bilder und Videos sind seit jeher das effektivste Medium, um einen bleibenden Eindruck zu
+hinterlassen. Corporate Photography nutzt diese Kraft gezielt. Mit GIRAF werden Sie Ihre Ziele
+erreichen und Ihre Mitbewerber hinter sich lassen.
             </p>
           </div>
         </div>
@@ -277,18 +270,10 @@
         <div class="col-xl-9 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-head-content">
 
-            <h4>Product Photography </h4>
-            <p> High quality images can enhance the value of the digital product.
-              Corporate photography will yield excellent images of the product which increases the chances
-              of it being purchased. Providing the detailed images of the product from different angles
-              will render a comprehensive understanding about its dimensions to the users.
-              When the product image appears in the query, it will naturally drive traffic to the company’s site.
-
-            </p>
-            <p> At Giraf we meticulously craft Corporate Photography with the best product images
-              that will persuade you customers to land a click on your website.
-
-            </p>
+            <h4> Produktfotografie: </h4>
+            <p>  Hochwertige Bilder steigern den wahrgenommenen Wert eines
+            Produkts und erhöhen die Kaufwahrscheinlichkeit.
+            </p> 
           </div>
         </div>
       </div>
@@ -298,12 +283,9 @@
         <div class="col-xl-9 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-head-content">
 
-            <h4> Motion Graphics </h4>
-            <p> Motion graphics adds kinesis to the digital product, introducing it
-              in the most efficient yet concise way to the users. Creating appealing and
-              interactive graphics will help the users to know more about the product,
-              gain their trust and thereby lead to its purchase. At Giraf, our talented graphics
-              team will bring your design elements into life with the best motion graphics cost effectively.
+            <h4> Motion Graphics: </h4>
+            <p>  Interaktive Grafiken bringen Ihre digitalen Produkte zum Leben und
+            stärken das Vertrauen der Nutzer.
 
             </p>
           </div>
@@ -323,14 +305,11 @@
         <div class="col-xl-9 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-head-content">
 
-            <h4> Product Videos </h4>
-            <p> A captivating video is essential to engage the audience.
-              Breaking down complex details in a way that enables the users to understand more about it
-              is vital for any business to flourish. The accurate depiction of the product highlighting
-              its proportions will offer the users precise information about the specific digital asset.
+            <h4> Produktvideos: </h4>
+            <p>  Erklären komplexe Details auf verständliche Weise und bieten präzise
+            Informationen.
 
-            </p>
-            <p> We are at your disposal to create fabulous product videos that provide the perfect demonstration of your product. </p>
+            </p> 
           </div>
         </div>
       </div>
@@ -340,18 +319,11 @@
         <div class="col-xl-9 col-lg-6 col-md-12 col-sm-12">
           <div class="photography-head-content">
 
-            <h4> Video Ad campaigns </h4>
-            <p> The whole world is driven by ads. On an average a person is exposed to a minimum of thousand
-              ads per day, but studies show that only about a hundred of them would be likely noticed.
-              To be among that hundred and be actually ‘seen’ by a user is a challenging task especially
-              in this digital era which is flooded by ads. That is where a strategic video ad campaign becomes relevant.
+            <h4> Video-Werbekampagnen: </h4>
+            <p>  In einer Welt, die von Werbung überflutet ist, heben
+            strategische Videoanzeigen Ihre Marke aus der Masse hervor.
 
-            </p>
-            <p> Combining tactful storytelling strategies with the core elements of your product
-              for your ad campaigning, the perfect combination to reach success.
-              At Giraf we propose premium video ad campaigns to promote your product.
-
-            </p>
+            </p> 
           </div>
         </div>
         <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12">
@@ -379,8 +351,8 @@
   <section class="services-details-strip-area">
     <div class="main-box">
       <div class="strip-text">
-        <h4> Photography & Video Production </h4>
-        <h3> Giving Your Business Some Great Ideas </h3>
+        <h4> Fotografie und Videoproduktion </h4>
+        <h3> Großartige Ideen für Ihr Unternehmen. </h3>
       </div>
     </div>
   </section>
@@ -396,7 +368,7 @@
       <div class="form-bg box-commn">
         <div class="form-container">
           <form class="form-horizontal">
-            <h3 class="title"> Fill-in and <span> Reach Out </span> </h3>
+            <h3 class="title"> Kontaktformular   </h3>
 
 
             <div class="row">
@@ -411,14 +383,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Phone">
+                  <input type="text" class="form-control" placeholder="Telefon">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="email" class="form-control" placeholder="Email">
+                  <input type="email" class="form-control" placeholder="E-Mail">
                 </div>
               </div>
               <!--// col-md-4 -->
@@ -428,14 +400,14 @@
               <!-- col-md-4 -->
               <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Company Name">
+                  <input type="text" class="form-control" placeholder="Unternehmensname">
                 </div>
               </div>
               <!--// col-md-4 -->
               <!-- col-md-8 -->
               <div class="col-xl-8 col-lg-8 col-md-12">
                 <div class="form-group">
-                  <textarea class="form-control" rows="4" cols="120" placeholder="Message"></textarea>
+                  <textarea class="form-control" rows="4" cols="120" placeholder="Nachricht"></textarea>
 
                 </div>
               </div>
@@ -446,7 +418,7 @@
 
             <div class="row">
               <div class="col-md-3 mx-auto get-in-tuch">
-                <button type="button" class="btn btn-default"> Get in Touch <i class="fas fa-angle-right"></i> </button>
+                <button type="button" class="btn btn-default"> Kontaktieren Sie uns: <i class="fas fa-angle-right"></i> </button>
               </div>
             </div>
 
